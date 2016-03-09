@@ -1,390 +1,892 @@
-% This file was created with JabRef 2.7b.
+% This file was created with JabRef 2.10.
 % Encoding: ISO8859_1
 
-@ARTICLE{Baudry1997,
-  author = {{Baudry}, A. and {Desmurs}, J.~F. and {Wilson}, T.~L. and {Cohen},
-	R.~J.},
-  title = {{A survey of star-forming regions in the 5 CM lines of OH.}},
-  journal = {\aap},
-  year = {1997},
-  volume = {325},
-  pages = {255-268},
-  month = sep,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1997A%26A...325..255B},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Baudry_etal_1997.pdf:PDF},
-  keywords = {MASERS, STARS: FORMATION, INTERSTELLAR MEDIUM: HII REGIONS, MAGNETIC
-	FIELDS, RADIO LINES: ISM},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+
+@Article{bdwc97,
+  Title                    = {A survey of star-forming regions in the 5 CM lines of OH.},
+  Author                   = {Baudry, A. and Desmurs, J.~F. and Wilson, T.~L. and Cohen, R.~J.},
+  Journal                  = {\aap},
+  Year                     = {1997},
+
+  Month                    = sep,
+  Pages                    = {255-268},
+  Volume                   = {325},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1997A%26A...325..255B},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Baudry_etal_1997.pdf:PDF},
+  Keywords                 = {MASERS, STARS: FORMATION, INTERSTELLAR MEDIUM: HII REGIONS, MAGNETIC FIELDS, RADIO LINES: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
 }
 
-@ARTICLE{Caswell1995,
-  author = {{Caswell}, J.~L. and {Vaile}, R.~A.},
-  title = {{Excited-state OH masers at 6.035 GHz}},
-  journal = {\mnras},
-  year = {1995},
-  volume = {273},
-  pages = {328-346},
-  month = mar,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1995MNRAS.273..328C},
-  keywords = {MASERS, STARS: FORMATION, ISM: MOLECULES, RADIO LINES: ISM},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+@Article{cv95,
+  Title                    = {Excited-state OH masers at 6.035 GHz},
+  Author                   = {Caswell, J.~L. and Vaile, R.~A.},
+  Journal                  = {\mnras},
+  Year                     = {1995},
+
+  Month                    = mar,
+  Pages                    = {328-346},
+  Volume                   = {273},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1995MNRAS.273..328C},
+  Keywords                 = {MASERS, STARS: FORMATION, ISM: MOLECULES, RADIO LINES: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
 }
 
-@ARTICLE{Clegg1991,
-  author = {{Clegg}, A.~W. and {Cordes}, J.~M.},
-  title = {{Variability of interstellar hydroxyl masers}},
-  journal = {\apj},
-  year = {1991},
-  volume = {374},
-  pages = {150-168},
-  month = jun,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1991ApJ...374..150C},
-  doi = {10.1086/170105},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Clegg_and_Cordes_1991.pdf:PDF},
-  keywords = {HYDROXYL EMISSION, INTERSTELLAR MASERS, VARIABILITY, ASTRONOMICAL
-	SPECTROSCOPY, BRIGHTNESS TEMPERATURE, EMISSION SPECTRA, VERY LARGE
-	ARRAY (VLA)},
-  owner = {tanmoy},
-  timestamp = {2012.01.26}
+@Article{cch+94,
+  Title                    = {Hot ammonia towards compact HII regions},
+  Author                   = {Cesaroni, R. and Churchwell, E. and Hofner, P. and Walmsley, C.~M. and Kurtz, S.},
+  Journal                  = {\aap},
+  Year                     = {1994},
+
+  Month                    = aug,
+  Volume                   = {288},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1994A%26A...288..903C},
+  Keywords                 = {INTERSTELLAR MEDIUM: CLOUDS, INTERSTELLAR MEDIUM: MOLECULES, RADIO LINES: INTERSTELLAR},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@INPROCEEDINGS{Diamond1988,
-  author = {{Diamond}, P.~J. and {Martinson}, A. and {Dennison}, B. and {Booth},
-	R.~S. and {Winnberg}, A.},
-  title = {{Preliminary results from a 7 station VLBI survey of OH masers in
-	the Galactic plane}},
-  booktitle = {Radio Wave Scattering in the Interstellar Medium},
-  year = {1988},
-  editor = {{J.~M.~Cordes, B.~J.~Rickett, \& D.~C.~Backer}},
-  volume = {174},
-  series = {American Institute of Physics Conference Series},
-  pages = {195-198},
-  month = nov,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1988AIPC..174..195D},
-  doi = {10.1063/1.37592},
-  keywords = {HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIO SCATTERING, VERY LONG
-	BASE INTERFEROMETRY, EXTRAGALACTIC RADIO SOURCES, INTERSTELLAR MATTER,
-	POWER SPECTRA, PULSARS},
-  owner = {tanmoy},
-  timestamp = {2012.02.29}
+@Article{cow+94,
+  Title                    = {A massive young embedded object associated with the UC H II region G31.41+0.31},
+  Author                   = {Cesaroni, R. and Olmi, L. and Walmsley, C.~M. and Churchwell, E. and Hofner, P.},
+  Journal                  = {\apjl},
+  Year                     = {1994},
+
+  Month                    = nov,
+  Pages                    = {L137-L140},
+  Volume                   = {435},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1994ApJ...435L.137C},
+  Doi                      = {10.1086/187613},
+  Keywords                 = {Acetonitrile, Astronomical Maps, Galactic Evolution, H Ii Regions, Interferometers, Interstellar Matter, Star Formation, Stellar Cores, Ammonia, Astronomical Observatories, Infrared Astronomy Satellite, Molecular Gases, Radio Jets (Astronomy)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Elitzur1992,
-  author = {{Elitzur}, M.},
-  title = {{Astronomical masers}},
-  journal = {\araa},
-  year = {1992},
-  volume = {30},
-  pages = {75-112},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1992ARA%26A..30...75E},
-  doi = {10.1146/annurev.aa.30.090192.000451},
-  keywords = {INTERSTELLAR MAGNETIC FIELDS, INTERSTELLAR MASERS, INTERSTELLAR MATTER,
-	LATE STARS, SHOCK WAVES, STAR FORMATION, MASER OUTPUTS, MILKY WAY
-	GALAXY, VERY LONG BASE INTERFEROMETRY},
-  owner = {tanmoy},
-  timestamp = {2012.01.26}
+@Article{cw91,
+  Title                    = {OH maser models revisited},
+  Author                   = {Cesaroni, R. and Walmsley, C.~M.},
+  Journal                  = {\aap},
+  Year                     = {1991},
+
+  Month                    = jan,
+  Pages                    = {537-550},
+  Volume                   = {241},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1991A%26A...241..537C},
+  Keywords                 = {Astronomical Models, Hydroxyl Radicals, Interstellar Masers, Computational Astrophysics, Electron Transitions, Far Infrared Radiation, Microwave Emission},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
 }
 
-@ARTICLE{Fish2006,
-  author = {{Fish}, V.~L. and {Brisken}, W.~F. and {Sjouwerman}, L.~O.},
-  title = {{A Very High Spectral Resolution Study of Ground-State OH Masers
-	in W3(OH)}},
-  journal = {\apj},
-  year = {2006},
-  volume = {647},
-  pages = {418-431},
-  month = aug,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...647..418F},
-  doi = {10.1086/505420},
-  eprint = {arXiv:astro-ph/0604531},
-  keywords = {ISM: Individual: Alphanumeric: W3(OH), ISM: Molecules, Line: Profiles,
-	Masers, Radio Lines: ISM},
-  owner = {tanmoy},
-  timestamp = {2012.01.30}
+@Article{cc91,
+  Title                    = {Variability of interstellar hydroxyl masers},
+  Author                   = {Clegg, A.~W. and Cordes, J.~M.},
+  Journal                  = {\apj},
+  Year                     = {1991},
+
+  Month                    = jun,
+  Pages                    = {150-168},
+  Volume                   = {374},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1991ApJ...374..150C},
+  Doi                      = {10.1086/170105},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Clegg_and_Cordes_1991.pdf:PDF},
+  Keywords                 = {HYDROXYL EMISSION, INTERSTELLAR MASERS, VARIABILITY, ASTRONOMICAL SPECTROSCOPY, BRIGHTNESS TEMPERATURE, EMISSION SPECTRA, VERY LARGE ARRAY (VLA)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.26}
 }
 
-@ARTICLE{Fish2011,
-  author = {{Fish}, V.~L. and {Gray}, M. and {Goss}, W.~M. and {Richards}, A.~M.~S.},
-  title = {{Flares and proper motions of ground-state OH masers in W75N}},
-  journal = {\mnras},
-  year = {2011},
-  volume = {417},
-  pages = {555-566},
-  month = oct,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.417..555F},
-  archiveprefix = {arXiv},
-  doi = {10.1111/j.1365-2966.2011.19297.x},
-  eprint = {1106.4190},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Fish_etal_2011.pdf:PDF},
-  keywords = {magnetic fields, masers, stars: formation, ISM: individual objects:
-	W75N, ISM: kinematics and dynamics, radio lines: ISM},
-  owner = {tanmoy},
-  primaryclass = {astro-ph.GA},
-  timestamp = {2012.02.28}
+@Article{coh89,
+  Title                    = {Compact maser sources},
+  Author                   = {Cohen, R.~J.},
+  Journal                  = {Reports on Progress in Physics},
+  Year                     = {1989},
+
+  Month                    = aug,
+  Pages                    = {881-943},
+  Volume                   = {52},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1989RPPh...52..881C},
+  Doi                      = {10.1088/0034-4885/52/8/001},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
 }
 
-@ARTICLE{Goldreich1974,
-  author = {{Goldreich}, P. and {Kwan}, J.},
-  title = {{Astrophysical Masers.IV. Line Widths}},
-  journal = {\apj},
-  year = {1974},
-  volume = {190},
-  pages = {27-34},
-  month = may,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1974ApJ...190...27G},
-  doi = {10.1086/152843},
-  owner = {tanmoy},
-  timestamp = {2012.02.29}
+@Article{csg02,
+  Title                    = {Modelling methanol and hydroxyl masers in star-forming regions},
+  Author                   = {Cragg, D.~M. and Sobolev, A.~M. and Godfrey, P.~D.},
+  Journal                  = {\mnras},
+  Year                     = {2002},
+
+  Month                    = mar,
+  Pages                    = {521-536},
+  Volume                   = {331},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2002MNRAS.331..521C},
+  Doi                      = {10.1046/j.1365-8711.2002.05226.x},
+  Keywords                 = {masers, HII regions, ISM: molecules, radio lines: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
 }
 
-@ARTICLE{Gray2007,
-  author = {{Gray}, M.~D.},
-  title = {{Pumping of OH main-line masers in star-forming regions}},
-  journal = {\mnras},
-  year = {2007},
-  volume = {375},
-  pages = {477-488},
-  month = feb,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2007MNRAS.375..477G},
-  doi = {10.1111/j.1365-2966.2006.11309.x},
-  eprint = {arXiv:astro-ph/0611709},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Gray_2007.pdf:PDF},
-  keywords = {masers , molecular processes , radiative transfer , ISM: molecules
-	, radio lines: stars},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+@InProceedings{dmd+88,
+  Title                    = {Preliminary results from a 7 station VLBI survey of OH masers in the Galactic plane},
+  Author                   = {Diamond, P.~J. and Martinson, A. and Dennison, B. and Booth, R.~S. and Winnberg, A.},
+  Booktitle                = {Radio Wave Scattering in the Interstellar Medium},
+  Year                     = {1988},
+  Editor                   = {J.~M.~Cordes, B.~J.~Rickett, \& D.~C.~Backer},
+  Month                    = nov,
+  Pages                    = {195-198},
+  Series                   = {American Institute of Physics Conference Series},
+  Volume                   = {174},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1988AIPC..174..195D},
+  Doi                      = {10.1063/1.37592},
+  Keywords                 = {HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIO SCATTERING, VERY LONG BASE INTERFEROMETRY, EXTRAGALACTIC RADIO SOURCES, INTERSTELLAR MATTER, POWER SPECTRA, PULSARS},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.29}
 }
 
-@ARTICLE{MacLeod1996,
-  author = {{MacLeod}, G.~C. and {Gaylard}, M.~J.},
-  title = {{Variable hydroxyl and methanol masers in G 351.78-0.54}},
-  journal = {\mnras},
-  year = {1996},
-  volume = {280},
-  pages = {868-876},
-  month = jun,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1996MNRAS.280..868M},
-  file = {:/home/tanmoy/Projects/Desh/Papers/MacLeod_and_Gaylard_1996.pdf:PDF},
-  keywords = {MASERS, STARS: FORMATION, ISM: INDIVIDUAL: G 351.78-0.54, ISM: MOLECULES},
-  owner = {tanmoy},
-  timestamp = {2012.01.26}
+@Article{dic87,
+  Title                    = {Pumping the stellar hydroxyl maser},
+  Author                   = {Dickinson, D.~F.},
+  Journal                  = {\apj},
+  Year                     = {1987},
+
+  Month                    = feb,
+  Pages                    = {408-412},
+  Volume                   = {313},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1987ApJ...313..408D},
+  Doi                      = {10.1086/164978},
+  Keywords                 = {Hydroxyl Emission, Infrared Spectra, Interstellar Masers, Late Stars, Mira Variables, Far Infrared Radiation, Semiregular Variable Stars, Stellar Spectrophotometry},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
 }
 
-@ARTICLE{Masheder1994,
-  author = {{Masheder}, M.~R.~W. and {Field}, D. and {Gray}, M.~D. and {Migenes},
-	V. and {Cohen}, R.~J. and {Booth}, R.~S.},
-  title = {{Very Long Baseline Interferometry of 1720 MHz masers in W3(OH)}},
-  journal = {\aap},
-  year = {1994},
-  volume = {281},
-  pages = {871-881},
-  month = jan,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1994A%26A...281..871M},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Mashedar_etal_1999.pdf:PDF},
-  keywords = {H II REGIONS, HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIO ASTRONOMY,
-	STAR FORMATION, ASTRONOMICAL MODELS, EMISSION SPECTRA, METHYL ALCOHOL,
-	POWER SPECTRA, VERY LONG BASE INTERFEROMETRY},
-  owner = {tanmoy},
-  timestamp = {2012.01.29}
+@Article{eli92,
+  Title                    = {Astronomical masers},
+  Author                   = {Elitzur, M.},
+  Journal                  = {\araa},
+  Year                     = {1992},
+  Pages                    = {75-112},
+  Volume                   = {30},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1992ARA%26A..30...75E},
+  Doi                      = {10.1146/annurev.aa.30.090192.000451},
+  Keywords                 = {INTERSTELLAR MAGNETIC FIELDS, INTERSTELLAR MASERS, INTERSTELLAR MATTER, LATE STARS, SHOCK WAVES, STAR FORMATION, MASER OUTPUTS, MILKY WAY GALAXY, VERY LONG BASE INTERFEROMETRY},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.26}
 }
 
-@ARTICLE{Pihlstrom2011,
-  author = {{Pihlstr{\"o}m}, Y.~M. and {Sjouwerman}, L.~O. and {Mesler}, R.~A.},
-  title = {{Very Large Array Monitoring of 1720 MHz OH Masers toward the Galactic
-	Center}},
-  journal = {\apj},
-  year = {2011},
-  volume = {740},
-  pages = {66},
-  month = oct,
-  eid = {66},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...740...66P},
-  archiveprefix = {arXiv},
-  doi = {10.1088/0004-637X/740/2/66},
-  eprint = {1107.4341},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Philstrom_etal_2011.pdf:PDF},
-  keywords = {Galaxy: center, ISM: supernova remnants, masers, supernovae: individual:
-	Sgr A East},
-  owner = {tanmoy},
-  primaryclass = {astro-ph.GA},
-  timestamp = {2012.01.26}
+@Article{eli82,
+  Title                    = {Physical characteristics of astronomical masers},
+  Author                   = {Elitzur, M.},
+  Journal                  = {Reviews of Modern Physics},
+  Year                     = {1982},
+
+  Month                    = oct,
+  Pages                    = {1225-1260},
+  Volume                   = {54},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1982RvMP...54.1225E},
+  Doi                      = {10.1103/RevModPhys.54.1225},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Ramachandran2006,
-  author = {{Ramachandran}, R. and {Deshpande}, A.~A. and {Goss}, W.~M.},
-  title = {{Intrinsic Short-Timescale Variability in W3(OH) Hydroxyl Masers}},
-  journal = {\apj},
-  year = {2006},
-  volume = {653},
-  pages = {1314-1324},
-  month = dec,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...653.1314R},
-  doi = {10.1086/508505},
-  eprint = {arXiv:astro-ph/0608098},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Ramach_etal_2006.pdf:PDF},
-  keywords = {ISM: Molecules, Masers, Radiation Mechanisms: Nonthermal},
-  owner = {tanmoy},
-  timestamp = {2012.01.26}
+@Article{fbs06,
+  Title                    = {A Very High Spectral Resolution Study of Ground-State OH Masers in W3(OH)},
+  Author                   = {Fish, V.~L. and Brisken, W.~F. and Sjouwerman, L.~O.},
+  Journal                  = {\apj},
+  Year                     = {2006},
+
+  Month                    = aug,
+  Pages                    = {418-431},
+  Volume                   = {647},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006ApJ...647..418F},
+  Doi                      = {10.1086/505420},
+  Eprint                   = {arXiv:astro-ph/0604531},
+  Keywords                 = {ISM: Individual: Alphanumeric: W3(OH), ISM: Molecules, Line: Profiles, Masers, Radio Lines: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.30}
 }
 
-@ARTICLE{Rickard1975,
-  author = {{Rickard}, L.~J. and {Palmer}, P. and {Zuckerman}, B.},
-  title = {{Observations of quasi-thermal and maser phenomena in rotationally
-	excited OH. I}},
-  journal = {\apj},
-  year = {1975},
-  volume = {200},
-  pages = {6-21},
-  month = aug,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1975ApJ...200....6R},
-  doi = {10.1086/153755},
-  keywords = {ABSORPTION SPECTRA, HYDROXYL EMISSION, INTERSTELLAR MASERS, INTERSTELLAR
-	RADIATION, MOLECULAR EXCITATION, MOLECULAR ROTATION, ELECTRON TRANSITIONS,
-	FINE STRUCTURE, INFRARED ASTRONOMY, INTERSTELLAR EXTINCTION},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+@Article{fggr11,
+  Title                    = {Flares and proper motions of ground-state OH masers in W75N},
+  Author                   = {Fish, V.~L. and Gray, M. and Goss, W.~M. and Richards, A.~M.~S.},
+  Journal                  = {\mnras},
+  Year                     = {2011},
+
+  Month                    = oct,
+  Pages                    = {555-566},
+  Volume                   = {417},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011MNRAS.417..555F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.19297.x},
+  Eprint                   = {1106.4190},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Fish_etal_2011.pdf:PDF},
+  Keywords                 = {magnetic fields, masers, stars: formation, ISM: individual objects: W75N, ISM: kinematics and dynamics, radio lines: ISM},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.GA},
+  Timestamp                = {2012.02.28}
 }
 
-@ARTICLE{Salem1978,
-  author = {{Salem}, M. and {Middleton}, M.~S.},
-  title = {{Time variability of astrophysical masers}},
-  journal = {\mnras},
-  year = {1978},
-  volume = {183},
-  pages = {491-500},
-  month = may,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1978MNRAS.183..491S},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Salem_Middleton_1978.pdf:PDF},
-  keywords = {ASTRONOMICAL MODELS, HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIATIVE
-	TRANSFER, TIME FUNCTIONS, TWO DIMENSIONAL BODIES, BRIGHTNESS TEMPERATURE,
-	COMPUTERIZED SIMULATION, MATHEMATICAL MODELS, WATER MASERS},
-  owner = {tanmoy},
-  timestamp = {2012.02.29}
+@Article{fc89,
+  Title                    = {The spatial relationship of OH and H2O masers},
+  Author                   = {Forster, J.~R. and Caswell, J.~L.},
+  Journal                  = {\aap},
+  Year                     = {1989},
+
+  Month                    = apr,
+  Pages                    = {339-350},
+  Volume                   = {213},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1989A%26A...213..339F},
+  Keywords                 = {Hydroxyl Emission, Interstellar Masers, Star Formation, Water Masers, H Ii Regions, Interstellar Magnetic Fields, Maser Outputs, Star Clusters, Very Large Array (Vla)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Scappaticci1992,
-  author = {{Scappaticci}, G.~A. and {Watson}, W.~D.},
-  title = {{Rapid time variations and radiative instabilities of astrophysical
-	masers}},
-  journal = {\apj},
-  year = {1992},
-  volume = {400},
-  pages = {351-361},
-  month = nov,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1992ApJ...400..351S},
-  doi = {10.1086/172001},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Scappaticci_and_Watson_1992.pdf:PDF},
-  keywords = {HYDROXYL RADICALS, INTERSTELLAR MASERS, RADIATIVE TRANSFER, WATER
-	MASERS, LIGHT SPEED, TIME DEPENDENCE, VARIATIONS},
-  owner = {tanmoy},
-  timestamp = {2012.01.26}
+@Article{gl99,
+  Title                    = {Massive Stars: Their Environment and Formation},
+  Author                   = {Garay, G. and Lizano, S.},
+  Journal                  = {\pasp},
+  Year                     = {1999},
+
+  Month                    = sep,
+  Pages                    = {1049-1087},
+  Volume                   = {111},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1999PASP..111.1049G},
+  Doi                      = {10.1086/316416},
+  Eprint                   = {astro-ph/9907293},
+  Keywords                 = {ISM: H II REGIONS, ISM: CLOUDS, ISM: KINEMATICS AND DYNAMICS, STARS: FORMATION},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Slysh2010,
-  author = {{Slysh}, V.~I. and {Alakoz}, A.~V. and {Migenes}, V.},
-  title = {{Evolution of the spectrum and VLBI structure of W75N during the
-	huge OH maser flare in 2003-2007}},
-  journal = {\mnras},
-  year = {2010},
-  volume = {404},
-  pages = {1121-1128},
-  month = may,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.404.1121S},
-  doi = {10.1111/j.1365-2966.2010.16357.x},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Slysh_etal_2010.pdf:PDF},
-  keywords = {magnetic fields, masers, stars: formation, ISM: individual: W75N,
-	ISM: kinematics and dynamics},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+@Article{gmrr98,
+  Title                    = {The G19.6-0.2 Region of Star Formation: Molecular and Ionized Environs},
+  Author                   = {Garay, G. and Moran, J.~M. and Rodr\'\iguez, L.~F. and Reid, M.~J.},
+  Journal                  = {\apj},
+  Year                     = {1998},
+
+  Month                    = jan,
+  Pages                    = {635-649},
+  Volume                   = {492},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1998ApJ...492..635G},
+  Doi                      = {10.1086/305046},
+  Keywords                 = {ISM: H II REGIONS, ISM: INDIVIDUAL ALPHANUMERIC: G19.6-0.2, ISM: MOLECULES, ISM: STRUCTURE, RADIO LINES: ISM, STARS: FORMATION, ISM: H II Regions, ISM: Individual: Alphanumeric: G19.6-0.2, ISM: Molecules, ISM: Structure, Radio Lines: ISM, Stars: Formation},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Strelnitskii1984,
-  author = {{Strelnitskii}, V.~S.},
-  title = {{On the nature of the strong cosmic H2O masers}},
-  journal = {\mnras},
-  year = {1984},
-  volume = {207},
-  pages = {339-354},
-  month = mar,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1984MNRAS.207..339S},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Strelnitskii_1984.pdf:PDF},
-  keywords = {ASTRONOMICAL MODELS, INTERSTELLAR MASERS, OPTICAL PUMPING, RADIANT
-	FLUX DENSITY, WATER MASERS, PROTOPLANETS, STELLAR ENVELOPES, STELLAR
-	EVOLUTION, STELLAR MASS, STELLAR WINDS},
-  owner = {tanmoy},
-  timestamp = {2012.02.28}
+@Article{gmr93,
+  Title                    = {Compact ammonia sources toward the G10.5 + 0.0 H II region complex},
+  Author                   = {Garay, G. and Moran, J.~M. and Rodriguez, L.~F.},
+  Journal                  = {\apj},
+  Year                     = {1993},
+
+  Month                    = aug,
+  Pages                    = {582-592},
+  Volume                   = {413},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1993ApJ...413..582G},
+  Doi                      = {10.1086/173027},
+  Keywords                 = {Ammonia, Emission Spectra, Galactic Structure, H Ii Regions, Molecular Clouds, Astronomical Spectroscopy, Molecular Rotation, Radio Sources (Astronomy)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Wright2004a,
-  author = {{Wright}, M.~M. and {Gray}, M.~D. and {Diamond}, P.~J.},
-  title = {{The OH ground-state masers in W3(OH) - I. Results for 1665 MHz}},
-  journal = {\mnras},
-  year = {2004},
-  volume = {350},
-  pages = {1253-1271},
-  month = jun,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2004MNRAS.350.1253W},
-  doi = {10.1111/j.1365-2966.2004.07572.x},
-  keywords = {magnetic fields: masers: polarization: stars: formation: ISM: molecules:
-	radio lines: ISM},
-  owner = {tanmoy},
-  timestamp = {2012.03.03}
+@Article{gr90,
+  Title                    = {The compact molecular core toward G34.3 + 0.2 - VLA observations in the (2,2) and (3,3) lines of ammonia},
+  Author                   = {Garay, G. and Rodriguez, L.~F.},
+  Journal                  = {\apj},
+  Year                     = {1990},
+
+  Month                    = oct,
+  Pages                    = {191-201},
+  Volume                   = {362},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1990ApJ...362..191G},
+  Doi                      = {10.1086/169254},
+  Keywords                 = {Ammonia, H Ii Regions, Interstellar Gas, Molecular Clouds, Radio Spectra, Star Formation, Very Large Array (Vla), Extragalactic Radio Sources, Hyperfine Structure, Molecular Gases, Supernova Remnants},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
 }
 
-@ARTICLE{Wright2004b,
-  author = {{Wright}, M.~M. and {Gray}, M.~D. and {Diamond}, P.~J.},
-  title = {{The OH ground-state masers in W3(OH) - II. Polarization and multifrequency
-	results}},
-  journal = {\mnras},
-  year = {2004},
-  volume = {350},
-  pages = {1272-1287},
-  month = jun,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/2004MNRAS.350.1272W},
-  doi = {10.1111/j.1365-2966.2004.07607.x},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Wright_etal_2004b.pdf:PDF},
-  keywords = {magnetic fields, masers, polarization, stars: formation, ISM: molecules,
-	radio lines: ISM},
-  owner = {tanmoy},
-  timestamp = {2012.03.04}
+@Article{gk74,
+  Title                    = {Astrophysical Masers.IV. Line Widths},
+  Author                   = {Goldreich, P. and Kwan, J.},
+  Journal                  = {\apj},
+  Year                     = {1974},
+
+  Month                    = may,
+  Pages                    = {27-34},
+  Volume                   = {190},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1974ApJ...190...27G},
+  Doi                      = {10.1086/152843},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.29}
 }
 
-@ARTICLE{Zuckerman1972,
-  author = {{Zuckerman}, B. and {Yen}, J.~L. and {Gottlieb}, C.~A. and {Palmer},
-	P.},
-  title = {{Observations of the $^{2}$ $prod_{3/2}$, J = 5/2 State of Interstellar
-	OH}},
-  journal = {\apj},
-  year = {1972},
-  volume = {177},
-  pages = {59},
-  month = oct,
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl = {http://adsabs.harvard.edu/abs/1972ApJ...177...59Z},
-  doi = {10.1086/151686},
-  file = {:/home/tanmoy/Projects/Desh/Papers/Zuckerman_etal_1972.pdf:PDF}
+@Article{ggl95,
+  Title                    = {Warm Molecular Gas Associated with Cometary H II Regions},
+  Author                   = {Gomez, Y. and Garay, G. and Lizano, S.},
+  Journal                  = {\apj},
+  Year                     = {1995},
+
+  Month                    = nov,
+  Pages                    = {727},
+  Volume                   = {453},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1995ApJ...453..727G},
+  Doi                      = {10.1086/176434},
+  Keywords                 = {ISM: H II REGIONS, ISM: INDIVIDUAL ALPHANUMERIC: G32.80+0.19, ISM: INDIVIDUAL ALPHANUMERIC: G61.48+0.09, ISM: MOLECULES, STARS: FORMATION, RADIO LINES: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{grgm91,
+  Title                    = {The dense molecular envelope around the compact H II region G5.89 - 0.39 (W28 A2)},
+  Author                   = {Gomez, Y. and Rodriguez, L.~F. and Garay, G. and Moran, J.~M.},
+  Journal                  = {\apj},
+  Year                     = {1991},
+
+  Month                    = aug,
+  Pages                    = {519-525},
+  Volume                   = {377},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1991ApJ...377..519G},
+  Doi                      = {10.1086/170381},
+  Keywords                 = {Ammonia, H Ii Regions, Interstellar Gas, Molecular Gases, Radio Sources (Astronomy), Star Formation, Astronomical Maps, Gas Flow, Ionized Gases, Radio Astronomy, Very Large Array (Vla)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{gra07,
+  Title                    = {Pumping of OH main-line masers in star-forming regions},
+  Author                   = {Gray, M.~D.},
+  Journal                  = {\mnras},
+  Year                     = {2007},
+
+  Month                    = feb,
+  Pages                    = {477-488},
+  Volume                   = {375},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007MNRAS.375..477G},
+  Doi                      = {10.1111/j.1365-2966.2006.11309.x},
+  Eprint                   = {arXiv:astro-ph/0611709},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Gray_2007.pdf:PDF},
+  Keywords                 = {masers , molecular processes , radiative transfer , ISM: molecules , radio lines: stars},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
+}
+
+@Article{gfd92,
+  Title                    = {An analysis of intense OH maser emission in star-forming regions},
+  Author                   = {Gray, M.~D. and Field, D. and Doel, R.~C.},
+  Journal                  = {\aap},
+  Year                     = {1992},
+
+  Month                    = sep,
+  Pages                    = {555-569},
+  Volume                   = {262},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1992A%26A...262..555G},
+  Keywords                 = {Hydroxyl Emission, Interstellar Masers, Radiative Transfer, Star Formation, Far Infrared Radiation, Very Long Base Interferometry},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
+}
+
+@Article{hbm+06,
+  Title                    = {Water Maser Motions in W3(OH) and a Determination of Its Distance},
+  Author                   = {Hachisuka, K. and Brunthaler, A. and Menten, K.~M. and Reid, M.~J. and Imai, H. and Hagiwara, Y. and Miyoshi, M. and Horiuchi, S. and Sasao, T.},
+  Journal                  = {\apj},
+  Year                     = {2006},
+
+  Month                    = jul,
+  Pages                    = {337-344},
+  Volume                   = {645},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006ApJ...645..337H},
+  Doi                      = {10.1086/502962},
+  Eprint                   = {astro-ph/0512226},
+  Keywords                 = {Astrometry, Masers, Stars: Distances, Stars: Formation, stars: individual (W3(OH)), Stellar Dynamics},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
+}
+
+@Article{hlb89,
+  Title                    = {The 'ultracompact hot core' of G34.3+0.15 - Arcsecond resolution ammonia observations},
+  Author                   = {Heaton, B.~D. and Little, L.~T. and Bishop, I.~S.},
+  Journal                  = {\aap},
+  Year                     = {1989},
+
+  Month                    = apr,
+  Pages                    = {148-154},
+  Volume                   = {213},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1989A%26A...213..148H},
+  Keywords                 = {Ammonia, H Ii Regions, Interstellar Matter, Molecular Clouds, Absorption Spectra, Abundance, Brightness Temperature, Emission Spectra, Very Large Array (Vla)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{jhh88,
+  Title                    = {A rotating circumstellar molecular disk surrounding NGC 6334 I},
+  Author                   = {Jackson, J.~M. and Ho, P.~T.~P. and Haschick, A.~D.},
+  Journal                  = {\apjl},
+  Year                     = {1988},
+
+  Month                    = oct,
+  Pages                    = {L73-L77},
+  Volume                   = {333},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1988ApJ...333L..73J},
+  Doi                      = {10.1086/185290},
+  Keywords                 = {H Ii Regions, Infrared Sources (Astronomy), Star Formation, Stellar Coronas, Stellar Envelopes, Very Large Array (Vla), Accretion Disks, Emission Spectra, Infrared Spectra, Morphology},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{khr87,
+  Title                    = {Gravitational collapse in molecular cloud cores around ultracompact H II regions - Two candidates},
+  Author                   = {Keto, E.~R. and Ho, P.~T.~P. and Reid, M.~J.},
+  Journal                  = {\apjl},
+  Year                     = {1987},
+
+  Month                    = dec,
+  Pages                    = {L117-L121},
+  Volume                   = {323},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1987ApJ...323L.117K},
+  Doi                      = {10.1086/185069},
+  Keywords                 = {Gravitational Collapse, H Ii Regions, Interstellar Matter, Molecular Clouds, Nebulae, Star Formation, High Resolution, Ionized Gases, Red Shift, Velocity Distribution, Very Large Array (Vla)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{mg96,
+  Title                    = {Variable hydroxyl and methanol masers in G 351.78-0.54},
+  Author                   = {MacLeod, G.~C. and Gaylard, M.~J.},
+  Journal                  = {\mnras},
+  Year                     = {1996},
+
+  Month                    = jun,
+  Pages                    = {868-876},
+  Volume                   = {280},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1996MNRAS.280..868M},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/MacLeod_and_Gaylard_1996.pdf:PDF},
+  Keywords                 = {MASERS, STARS: FORMATION, ISM: INDIVIDUAL: G 351.78-0.54, ISM: MOLECULES},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.26}
+}
+
+@Article{mfg+94,
+  Title                    = {Very Long Baseline Interferometry of 1720 MHz masers in W3(OH)},
+  Author                   = {Masheder, M.~R.~W. and Field, D. and Gray, M.~D. and Migenes, V. and Cohen, R.~J. and Booth, R.~S.},
+  Journal                  = {\aap},
+  Year                     = {1994},
+
+  Month                    = jan,
+  Pages                    = {871-881},
+  Volume                   = {281},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1994A%26A...281..871M},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Mashedar_etal_1999.pdf:PDF},
+  Keywords                 = {H II REGIONS, HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIO ASTRONOMY, STAR FORMATION, ASTRONOMICAL MODELS, EMISSION SPECTRA, METHYL ALCOHOL, POWER SPECTRA, VERY LONG BASE INTERFEROMETRY},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.29}
+}
+
+@Article{mhww86,
+  Title                    = {Hot ammonia in the Galaxy},
+  Author                   = {Mauersberger, R. and Henkel, C. and Wilson, T.~L. and Walmsley, C.~M.},
+  Journal                  = {\aap},
+  Year                     = {1986},
+
+  Month                    = jul,
+  Pages                    = {199-210},
+  Volume                   = {162},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1986A%26A...162..199M},
+  Keywords                 = {Ammonia, Interstellar Gas, Milky Way Galaxy, Molecular Gases, Abundance, High Temperature Gases, Hydrogen Clouds, Nebulae, Radio Sources (Astronomy)},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{pk96,
+  Title                    = {OH Masers as Diagnostics of Physical Conditions in Star-forming Regions. I. Thermal Effects},
+  Author                   = {Pavlakis, K.~G. and Kylafis, N.~D.},
+  Journal                  = {\apj},
+  Year                     = {1996},
+
+  Month                    = aug,
+  Pages                    = {300},
+  Volume                   = {467},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1996ApJ...467..300P},
+  Doi                      = {10.1086/177605},
+  Keywords                 = {ISM: MOLECULES, MASERS, MOLECULAR PROCESSES, RADIATIVE TRANSFER, STARS: FORMATION},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
+}
+
+@Article{pk96a,
+  Title                    = {OH Masers as Diagnostics of Physical Conditions in Star-forming Regions. II. Effects of Large Velocity Gradients and Infrared Radiation},
+  Author                   = {Pavlakis, K.~G. and Kylafis, N.~D.},
+  Journal                  = {\apj},
+  Year                     = {1996},
+
+  Month                    = aug,
+  Pages                    = {309},
+  Volume                   = {467},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1996ApJ...467..309P},
+  Doi                      = {10.1086/177606},
+  Keywords                 = {ISM: MOLECULES, MASERS, MOLECULAR PROCESSES, RADIATIVE TRANSFER, STARS: FORMATION},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.18}
+}
+
+@Article{psm11,
+  Title                    = {Very Large Array Monitoring of 1720 MHz OH Masers toward the Galactic Center},
+  Author                   = {Pihlstr\"om, Y.~M. and Sjouwerman, L.~O. and Mesler, R.~A.},
+  Journal                  = {\apj},
+  Year                     = {2011},
+
+  Month                    = oct,
+  Pages                    = {66},
+  Volume                   = {740},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011ApJ...740...66P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/740/2/66},
+  Eid                      = {66},
+  Eprint                   = {1107.4341},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Philstrom_etal_2011.pdf:PDF},
+  Keywords                 = {Galaxy: center, ISM: supernova remnants, masers, supernovae: individual: Sgr A East},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.GA},
+  Timestamp                = {2012.01.26}
+}
+
+@Article{pje92,
+  Title                    = {A survey of CS J = 7 - 6 in regions of massive star formation},
+  Author                   = {Plume, R. and Jaffe, D.~T. and Evans, II, N.~J.},
+  Journal                  = {\apjs},
+  Year                     = {1992},
+
+  Month                    = feb,
+  Pages                    = {505-515},
+  Volume                   = {78},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1992ApJS...78..505P},
+  Doi                      = {10.1086/191636},
+  Keywords                 = {Interstellar Masers, Massive Stars, Sky Surveys (Astronomy), Star Formation, Astronomical Spectroscopy, Emission Spectra, Molecular Clouds, Water Masers},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{rdg06,
+  Title                    = {Intrinsic Short-Timescale Variability in W3(OH) Hydroxyl Masers},
+  Author                   = {Ramachandran, R. and Deshpande, A.~A. and Goss, W.~M.},
+  Journal                  = {\apj},
+  Year                     = {2006},
+
+  Month                    = dec,
+  Pages                    = {1314-1324},
+  Volume                   = {653},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2006ApJ...653.1314R},
+  Doi                      = {10.1086/508505},
+  Eprint                   = {arXiv:astro-ph/0608098},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Ramach_etal_2006.pdf:PDF},
+  Keywords                 = {ISM: Molecules, Masers, Radiation Mechanisms: Nonthermal},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.26}
+}
+
+@Article{rpz75,
+  Title                    = {Observations of quasi-thermal and maser phenomena in rotationally excited OH. I},
+  Author                   = {Rickard, L.~J. and Palmer, P. and Zuckerman, B.},
+  Journal                  = {\apj},
+  Year                     = {1975},
+
+  Month                    = aug,
+  Pages                    = {6-21},
+  Volume                   = {200},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1975ApJ...200....6R},
+  Doi                      = {10.1086/153755},
+  Keywords                 = {ABSORPTION SPECTRA, HYDROXYL EMISSION, INTERSTELLAR MASERS, INTERSTELLAR RADIATION, MOLECULAR EXCITATION, MOLECULAR ROTATION, ELECTRON TRANSITIONS, FINE STRUCTURE, INFRARED ASTRONOMY, INTERSTELLAR EXTINCTION},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
+}
+
+@Article{sm78,
+  Title                    = {Time variability of astrophysical masers},
+  Author                   = {Salem, M. and Middleton, M.~S.},
+  Journal                  = {\mnras},
+  Year                     = {1978},
+
+  Month                    = may,
+  Pages                    = {491-500},
+  Volume                   = {183},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1978MNRAS.183..491S},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Salem_Middleton_1978.pdf:PDF},
+  Keywords                 = {ASTRONOMICAL MODELS, HYDROXYL EMISSION, INTERSTELLAR MASERS, RADIATIVE TRANSFER, TIME FUNCTIONS, TWO DIMENSIONAL BODIES, BRIGHTNESS TEMPERATURE, COMPUTERIZED SIMULATION, MATHEMATICAL MODELS, WATER MASERS},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.29}
+}
+
+@Article{sw92,
+  Title                    = {Rapid time variations and radiative instabilities of astrophysical masers},
+  Author                   = {Scappaticci, G.~A. and Watson, W.~D.},
+  Journal                  = {\apj},
+  Year                     = {1992},
+
+  Month                    = nov,
+  Pages                    = {351-361},
+  Volume                   = {400},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1992ApJ...400..351S},
+  Doi                      = {10.1086/172001},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Scappaticci_and_Watson_1992.pdf:PDF},
+  Keywords                 = {HYDROXYL RADICALS, INTERSTELLAR MASERS, RADIATIVE TRANSFER, WATER MASERS, LIGHT SPEED, TIME DEPENDENCE, VARIATIONS},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.01.26}
+}
+
+@Article{sam10,
+  Title                    = {Evolution of the spectrum and VLBI structure of W75N during the huge OH maser flare in 2003-2007},
+  Author                   = {Slysh, V.~I. and Alakoz, A.~V. and Migenes, V.},
+  Journal                  = {\mnras},
+  Year                     = {2010},
+
+  Month                    = may,
+  Pages                    = {1121-1128},
+  Volume                   = {404},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2010MNRAS.404.1121S},
+  Doi                      = {10.1111/j.1365-2966.2010.16357.x},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Slysh_etal_2010.pdf:PDF},
+  Keywords                 = {magnetic fields, masers, stars: formation, ISM: individual: W75N, ISM: kinematics and dynamics},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
+}
+
+@InProceedings{str07,
+  Title                    = {Masers as probes of supersonic turbulence},
+  Author                   = {Strelnitski, V.},
+  Booktitle                = {IAU Symposium},
+  Year                     = {2007},
+  Editor                   = {Chapman, J.~M. and Baan, W.~A.},
+  Month                    = mar,
+  Pages                    = {25-31},
+  Series                   = {IAU Symposium},
+  Volume                   = {242},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2007IAUS..242...25S},
+  Doi                      = {10.1017/S1743921307012513},
+  Keywords                 = {masers, turbulence, stars:formation, stars:circumstellar matter, ISM:kinematics and dynamics},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{str84,
+  Title                    = {On the nature of the strong cosmic H2O masers},
+  Author                   = {Strelnitskii, V.~S.},
+  Journal                  = {\mnras},
+  Year                     = {1984},
+
+  Month                    = mar,
+  Pages                    = {339-354},
+  Volume                   = {207},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1984MNRAS.207..339S},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Strelnitskii_1984.pdf:PDF},
+  Keywords                 = {ASTRONOMICAL MODELS, INTERSTELLAR MASERS, OPTICAL PUMPING, RADIANT FLUX DENSITY, WATER MASERS, PROTOPLANETS, STELLAR ENVELOPES, STELLAR EVOLUTION, STELLAR MASS, STELLAR WINDS},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.02.28}
+}
+
+@Article{skh+02,
+  Title                    = {6.7 GHz methanol masers at sites of star formation. A blind survey of the Galactic plane between 20 degr $\lt$$\lt$= 40 degr and |b| $\lt$= 0$\backslash$fdg52},
+  Author                   = {Szymczak, M. and Kus, A.~J. and Hrynek, G. and K\v epa, A. and Pazderski, E.},
+  Journal                  = {\aap},
+  Year                     = {2002},
+
+  Month                    = sep,
+  Pages                    = {277-286},
+  Volume                   = {392},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2002A%26A...392..277S},
+  Doi                      = {10.1051/0004-6361:20020907},
+  Keywords                 = {masers, surveys, stars: formation, ISM: molecules, radio lines: ISM, HII regions},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{wbhr98,
+  Title                    = {Studies of ultracompact HII regions - II. High-resolution radio continuum and methanol maser survey},
+  Author                   = {Walsh, A.~J. and Burton, M.~G. and Hyland, A.~R. and Robinson, G.},
+  Journal                  = {\mnras},
+  Year                     = {1998},
+
+  Month                    = dec,
+  Pages                    = {640-698},
+  Volume                   = {301},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1998MNRAS.301..640W},
+  Doi                      = {10.1046/j.1365-8711.1998.02014.x},
+  Keywords                 = {MASERS, STARS: FORMATION, ISM: GENERAL, HII REGIONS, RADIO CONTINUUM: ISM, RADIO LINES: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{wgd04,
+  Title                    = {The OH ground-state masers in W3(OH) - I. Results for 1665 MHz},
+  Author                   = {Wright, M.~M. and Gray, M.~D. and Diamond, P.~J.},
+  Journal                  = {\mnras},
+  Year                     = {2004},
+
+  Month                    = jun,
+  Pages                    = {1253-1271},
+  Volume                   = {350},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2004MNRAS.350.1253W},
+  Doi                      = {10.1111/j.1365-2966.2004.07572.x},
+  Keywords                 = {magnetic fields: masers: polarization: stars: formation: ISM: molecules: radio lines: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.03.03}
+}
+
+@Article{wgd04a,
+  Title                    = {The OH ground-state masers in W3(OH) - II. Polarization and multifrequency results},
+  Author                   = {Wright, M.~M. and Gray, M.~D. and Diamond, P.~J.},
+  Journal                  = {\mnras},
+  Year                     = {2004},
+
+  Month                    = jun,
+  Pages                    = {1272-1287},
+  Volume                   = {350},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2004MNRAS.350.1272W},
+  Doi                      = {10.1111/j.1365-2966.2004.07607.x},
+  File                     = {:home/tanmoy/Projects/Literature/Masers/Wright_etal_2004b.pdf:PDF},
+  Keywords                 = {magnetic fields, masers, polarization, stars: formation, ISM: molecules, radio lines: ISM},
+  Owner                    = {tanmoy},
+  Timestamp                = {2012.03.04}
+}
+
+@Article{zhs98,
+  Title                    = {A Rotating Disk around a High-Mass Young Star},
+  Author                   = {Zhang, Q. and Hunter, T.~R. and Sridharan, T.~K.},
+  Journal                  = {\apjl},
+  Year                     = {1998},
+
+  Month                    = oct,
+  Pages                    = {L151-L154},
+  Volume                   = {505},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1998ApJ...505L.151Z},
+  Doi                      = {10.1086/311609},
+  Keywords                 = {ISM: H II Regions, ISM: Clouds, ISM: Individual: Alphanumeric: IRAS 20126+4104, ISM: Kinematics and Dynamics, Stars: Formation, Stars: Pre-Main-Sequence},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{zpe+90,
+  Title                    = {Mapping the Outflow of OH:5.89-0.39},
+  Author                   = {Zijlstra, A.~A. and Pottasch, S.~R. and Engels, D. and Roelfsema, P.~R. and Hekkert, P.~T.-L. and Umana, G.},
+  Journal                  = {\mnras},
+  Year                     = {1990},
+
+  Month                    = sep,
+  Pages                    = {217},
+  Volume                   = {246},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1990MNRAS.246..217Z},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.01.06}
+}
+
+@Article{zygp72,
+  Title                    = {Observations of the $^2$ $prod_3/2$, J = 5/2 State of Interstellar OH},
+  Author                   = {Zuckerman, B. and Yen, J.~L. and Gottlieb, C.~A. and Palmer, P.},
+  Journal                  = {\apj},
+  Year                     = {1972},
+
+  Month                    = oct,
+  Pages                    = {59},
+  Volume                   = {177},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1972ApJ...177...59Z},
+  Doi                      = {10.1086/151686},
+  File                     = {:/home/tanmoy/Projects/Literature/Masers/Zuckerman_etal_1972.pdf:PDF}
 }
 
 @comment{jabref-meta: selector_publisher:}

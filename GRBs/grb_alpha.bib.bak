@@ -7088,6 +7088,25 @@
   Timestamp                = {2015.04.02}
 }
 
+@Article{pr93,
+  Title                    = {{Radio Transients from Gamma-Ray Bursters}},
+  Author                   = {{Paczynski}, B. and {Rhoads}, J.~E.},
+  Journal                  = {\apjl},
+  Year                     = {1993},
+
+  Month                    = nov,
+  Pages                    = {L5},
+  Volume                   = {418},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1993ApJ...418L...5P},
+  Doi                      = {10.1086/187102},
+  Eprint                   = {astro-ph/9307024},
+  Keywords                 = {COSMOLOGY: THEORY, GAMMA RAYS: BURSTS, RADIO CONTINUUM: GENERAL, RELATIVITY},
+  Owner                    = {tanmoy},
+  Timestamp                = {2016.03.08}
+}
+
 @Article{pmk+06,
   Title                    = {The Swift X-Ray Flaring Afterglow of GRB 050607},
   Author                   = {Pagani, C. and Morris, D.~C. and Kobayashi, S. and Sakamoto, T. and Falcone, A.~D. and Moretti, A. and Page, K. and Burrows, D.~N. and Grupe, D. and Retter, A. and Racusin, J. and Kennea, J.~A. and Campana, S. and Romano, P. and Tagliaferri, G. and Hill, J.~E. and Angelini, L. and Cusumano, G. and Goad, M.~R. and Barthelmy, S. and Chincarini, G. and Wells, A. and Giommi, P. and Nousek, J.~A. and Gehrels, N.},
@@ -7939,6 +7958,7 @@
   Adsurl                   = {http://adsabs.harvard.edu/abs/1999ApJ...525..737R},
   Doi                      = {10.1086/307907},
   Eprint                   = {arXiv:astro-ph/9903399},
+  File                     = {:Rhoads_1999.pdf:PDF},
   Keywords                 = {GAMMA RAYS: BURSTS},
   Owner                    = {tanmoy},
   Timestamp                = {2013.05.14}
@@ -9003,6 +9023,7 @@
   Doi                      = {10.1088/0004-637X/726/2/107},
   Eid                      = {107},
   Eprint                   = {1009.6001},
+  File                     = {:Suwa_and_Ioka_2011.pdf:PDF},
   Keywords                 = {dark ages, reionization, first stars, gamma-ray burst: general, stars: general},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.CO},
