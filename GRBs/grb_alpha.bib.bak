@@ -6587,6 +6587,24 @@
   Timestamp                = {2011.06.23}
 }
 
+@Article{lbc+17,
+  Title                    = {{A VLA Study of High-redshift GRBs I - Multi-wavelength Observations and Modeling of GRB 140311A}},
+  Author                   = {{Laskar}, T. and {Berger}, E. and {Chornock}, R. and {Margutti}, R. and {Fong}, W.-f. and {Zauderer}, A.},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2017},
+
+  Month                    = jul,
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2017arXiv170705358L},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1707.05358},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2017.07.20}
+}
+
 @Article{lbm+15,
   Title                    = {Energy Injection in Gamma-Ray Burst Afterglows},
   Author                   = {Laskar, T. and Berger, E. and Margutti, R. and Perley, D. and Zauderer, B.~A. and Sari, R. and Fong, W.-f.},
@@ -6607,6 +6625,24 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2015.11.18}
+}
+
+@Article{lbm+17,
+  Title                    = {{A VLA Study of High-redshift GRBs II - The Complex Radio Afterglow of GRB 140304A: Shell Collisions and Two Reverse Shocks}},
+  Author                   = {{Laskar}, T. and {Berger}, E. and {Margutti}, R. and {Zauderer}, A. and {Williams}, P.~K.~G. and {Fong}, W.-f. and {Sari}, R. and {Alexander}, K.~D. and {Kamble}, A.},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2017},
+
+  Month                    = jul,
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2017arXiv170705784L},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1707.05784},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2017.07.20}
 }
 
 @Article{lbt+14,
@@ -6980,7 +7016,7 @@
 
 @Article{lsb+16,
   Title                    = {{The Third Swift Burst Alert Telescope Gamma-Ray Burst Catalog}},
-  Author                   = {{Lien}, A. and {Sakamoto}, T. and {Barthelmy}, S.~D. and {Baumgartner}, W.~H. and {Cannizzo}, J.~K. and {Chen}, K. and {Collins}, N.~R. and {Cummings}, J.~R. and {Gehrels}, N. and {Krimm}, H.~A. and {Markwardt}, C.~B. and {Palmer}, D.~M. and {Stamatikos}, M. and {Troja}, E. and {Ukwatta}, T.~N. },
+  Author                   = {{Lien}, A. and {Sakamoto}, T. and {Barthelmy}, S.~D. and {Baumgartner}, W.~H. and {Cannizzo}, J.~K. and {Chen}, K. and {Collins}, N.~R. and {Cummings}, J.~R. and {Gehrels}, N. and {Krimm}, H.~A. and {Markwardt}, C.~B. and {Palmer}, D.~M. and {Stamatikos}, M. and {Troja}, E. and {Ukwatta}, T.~N.},
   Journal                  = {\apj},
   Year                     = {2016},
 
@@ -8766,7 +8802,7 @@
 
 @Article{pvw13,
   Title                    = {Peaks of optical and X-ray afterglow light curves},
-  Author                   = {Panaitescu, A. and Vestrand, W.~T. and Wo{\'}zniak, P.},
+  Author                   = {Panaitescu, A. and Vestrand, W.~T. and W{\'o}zniak, P.},
   Journal                  = {\mnras},
   Year                     = {2013},
 
