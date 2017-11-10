@@ -555,6 +555,23 @@
   Timestamp                = {2012.12.07}
 }
 
+@Article{bbr84,
+  Title                    = {{Theory of extragalactic radio sources}},
+  Author                   = {{Begelman}, M.~C. and {Blandford}, R.~D. and {Rees}, M.~J.},
+  Journal                  = {Reviews of Modern Physics},
+  Year                     = {1984},
+
+  Month                    = apr,
+  Pages                    = {255-351},
+  Volume                   = {56},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1984RvMP...56..255B},
+  Doi                      = {10.1103/RevModPhys.56.255},
+  Owner                    = {tanmoy},
+  Timestamp                = {2017.11.01}
+}
+
 @Article{brf14,
   Title                    = {Interpreting Short Gamma-Ray Burst Progenitor Kicks and Time Delays using the Host Galaxy-Dark Matter Halo Connection},
   Author                   = {Behroozi, P.~S. and Ramirez-Ruiz, E. and Fryer, C.~L.},
@@ -1191,6 +1208,42 @@
   Keywords                 = {Cosmic Rays, Particle Acceleration, Relativistic Particles, Shock Waves, Extragalactic Radio Sources, Interstellar Matter, Magnetohydrodynamic Waves, Supernova Remnants},
   Owner                    = {tanmoy},
   Timestamp                = {2015.04.02}
+}
+
+@Article{bp82,
+  Title                    = {{Hydromagnetic flows from accretion discs and the production of radio jets}},
+  Author                   = {{Blandford}, R.~D. and {Payne}, D.~G.},
+  Journal                  = {\mnras},
+  Year                     = {1982},
+
+  Month                    = jun,
+  Pages                    = {883-903},
+  Volume                   = {199},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1982MNRAS.199..883B},
+  Doi                      = {10.1093/mnras/199.4.883},
+  Keywords                 = {Astrophysics, Energy Transfer, Magnetohydrodynamic Flow, Momentum Transfer, Radio Jets (Astronomy), Stellar Mass Accretion, Angular Momentum, Black Holes (Astronomy), Critical Point, Disks (Shapes), Solar Corona},
+  Owner                    = {tanmoy},
+  Timestamp                = {2017.11.01}
+}
+
+@Article{bz77,
+  Title                    = {{Electromagnetic extraction of energy from Kerr black holes}},
+  Author                   = {{Blandford}, R.~D. and {Znajek}, R.~L.},
+  Journal                  = {\mnras},
+  Year                     = {1977},
+
+  Month                    = may,
+  Pages                    = {433-456},
+  Volume                   = {179},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1977MNRAS.179..433B},
+  Doi                      = {10.1093/mnras/179.3.433},
+  Keywords                 = {Black Holes (Astronomy), Electromagnetic Fields, Energy Sources, Rotating Matter, Active Galactic Nuclei, Astrophysics, Electron-Positron Pairs, Pair Production},
+  Owner                    = {tanmoy},
+  Timestamp                = {2017.11.01}
 }
 
 @Article{bkd02,
@@ -7620,6 +7673,28 @@
   Timestamp                = {2013.12.02}
 }
 
+@Article{lbb+15,
+  Title                    = {{A Millisecond Interferometric Search for Fast Radio Bursts with the Very Large Array}},
+  Author                   = {{Law}, C.~J. and {Bower}, G.~C. and {Burke-Spolaor}, S. and {Butler}, B. and {Lawrence}, E. and {Lazio}, T.~J.~W. and {Mattmann}, C.~A. and {Rupen}, M. and {Siemion}, A. and {VanderWiel}, S.},
+  Journal                  = {\apj},
+  Year                     = {2015},
+
+  Month                    = jul,
+  Pages                    = {16},
+  Volume                   = {807},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2015ApJ...807...16L},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/807/1/16},
+  Eid                      = {16},
+  Eprint                   = {1412.7536},
+  Keywords                 = {instrumentation: interferometers, intergalactic medium, pulsars: general, radio continuum: general, surveys},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2017.10.31}
+}
+
 @Book{law02,
   Title                    = {Statistical Models and Methods for Lifetime Data},
   Author                   = {Lawless, J.F.},
@@ -10408,6 +10483,28 @@
   Keywords                 = {Accretion, Accretion Disks, Black Hole Physics, Gamma Rays: Bursts, X-Rays: General},
   Owner                    = {tanmoy},
   Timestamp                = {2013.11.07}
+}
+
+@Article{pbj+16,
+  Title                    = {{FRBCAT: The Fast Radio Burst Catalogue}},
+  Author                   = {{Petroff}, E. and {Barr}, E.~D. and {Jameson}, A. and {Keane}, E.~F. and {Bailes}, M. and {Kramer}, M. and {Morello}, V. and {Tabbara}, D. and {van Straten}, W.},
+  Journal                  = {\pasa},
+  Year                     = {2016},
+
+  Month                    = sep,
+  Pages                    = {e045},
+  Volume                   = {33},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2016PASA...33...45P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1017/pasa.2016.35},
+  Eid                      = {e045},
+  Eprint                   = {1601.03547},
+  Keywords                 = {catalogs, methods: data analysis, telescopes},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2017.10.31}
 }
 
 @Article{pkb+15,
@@ -14231,6 +14328,26 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2014.09.03}
+}
+
+@Article{zbs+11,
+  Title                    = {{Birth of a relativistic outflow in the unusual {$\gamma$}-ray transient Swift J164449.3+573451}},
+  Author                   = {{Zauderer}, B.~A. and {Berger}, E. and {Soderberg}, A.~M. and {Loeb}, A. and {Narayan}, R. and {Frail}, D.~A. and {Petitpas}, G.~R. and {Brunthaler}, A. and {Chornock}, R. and {Carpenter}, J.~M. and {Pooley}, G.~G. and {Mooley}, K. and {Kulkarni}, S.~R. and {Margutti}, R. and {Fox}, D.~B. and {Nakar}, E. and {Patel}, N.~A. and {Volgenau}, N.~H. and {Culverhouse}, T.~L. and {Bietenholz}, M.~F. and {Rupen}, M.~P. and {Max-Moerbeck}, W. and {Readhead}, A.~C.~S. and {Richards}, J. and {Shepherd}, M. and {Storm}, S. and {Hull}, C.~L.~H.},
+  Journal                  = {\nat},
+  Year                     = {2011},
+
+  Month                    = aug,
+  Pages                    = {425-428},
+  Volume                   = {476},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2011Natur.476..425Z},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1038/nature10366},
+  Eprint                   = {1106.3568},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2017.11.01}
 }
 
 @Article{vzsh+98,
