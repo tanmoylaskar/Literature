@@ -2769,6 +2769,24 @@
   Timestamp                = {2015.03.02}
 }
 
+@Article{cg16,
+  Title                    = {{Polarization of prompt and afterglow emission of Gamma-Ray Bursts}},
+  Author                   = {{Covino}, S. and {Gotz}, D.},
+  Journal                  = {Astronomical and Astrophysical Transactions},
+  Year                     = {2016},
+  Pages                    = {205-244},
+  Volume                   = {29},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2016A%26AT...29..205C},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1605.03588},
+  Keywords                 = {Polarization, gamma-ray burst: general},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2018.04.14}
+}
+
 @Article{cow05,
   Title                    = {{Simulating a faint gamma-ray burst population}},
   Author                   = {{Coward}, D.~M.},
@@ -5690,6 +5708,25 @@
   Timestamp                = {2011.11.25}
 }
 
+@Article{gvdh14,
+  Title                    = {{Gamma-Ray Burst Jets and their Radio Observations}},
+  Author                   = {{Granot}, J. and {van der Horst}, A.~J.},
+  Journal                  = {\pasa},
+  Year                     = {2014},
+
+  Month                    = feb,
+  Pages                    = {e008},
+  Volume                   = {31},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2014PASA...31....8G},
+  Doi                      = {10.1017/pasa.2013.44},
+  Eid                      = {e008},
+  Keywords                 = {magnetic fields, shock waves, radio continuum: general, hydrodynamics; relativistic processes, gamma-rays: general},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.14}
+}
+
 @Article{gkf+09,
   Title                    = {GRB 080913 at Redshift 6.7},
   Author                   = {Greiner, J. and Kr{\"u}hler, T. and Fynbo, J.~P.~U. and Rossi, A. and Schwarz, R. and Klose, S. and Savaglio, S. and Tanvir, N.~R. and McBreen, S. and Totani, T. and Zhang, B.~B. and Wu, X.~F. and Watson, D. and Barthelmy, S.~D. and Beardmore, A.~P. and Ferrero, P. and Gehrels, N. and Kann, D.~A. and Kawai, N. and Yolda\c s, A.~K. and M{\'e}sz{\'a}ros, P. and Milvang-Jensen, B. and Oates, S.~R. and Pierini, D. and Schady, P. and Toma, K. and Vreeswijk, P.~M. and Yolda\c s, A. and Zhang, B. and Afonso, P. and Aoki, K. and Burrows, D.~N. and Clemens, C. and Filgas, R. and Haiman, Z. and Hartmann, D.~H. and Hasinger, G. and Hjorth, J. and Jehin, E. and Levan, A.~J. and Liang, E.~W. and Malesani, D. and Pyo, T.-S. and Schulze, S. and Szokoly, G. and Terada, K. and Wiersema, K.},
@@ -7316,6 +7353,24 @@
   Keywords                 = {galaxies: evolution, galaxies: high-redshift, galaxies:, ISM, galaxies: starburst},
   Owner                    = {tanmoy},
   Timestamp                = {2011.07.26}
+}
+
+@Article{kob17,
+  Title                    = {{Polarized Emission from Gamma-Ray Burst Jets}},
+  Author                   = {{Kobayashi}, S.},
+  Journal                  = {Galaxies},
+  Year                     = {2017},
+
+  Month                    = nov,
+  Pages                    = {80},
+  Volume                   = {5},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2017Galax...5...80K},
+  Doi                      = {10.3390/galaxies5040080},
+  File                     = {:Kobayashi_2017_polarization.pdf:PDF},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.14}
 }
 
 @Article{kob00,
@@ -12286,6 +12341,25 @@
   Timestamp                = {2013.11.14}
 }
 
+@Article{rlsg04,
+  Title                    = {{The polarization of afterglow emission reveals {$\gamma$}-ray bursts jet structure}},
+  Author                   = {{Rossi}, E.~M. and {Lazzati}, D. and {Salmonson}, J.~D. and {Ghisellini}, G.},
+  Journal                  = {\mnras},
+  Year                     = {2004},
+
+  Month                    = oct,
+  Pages                    = {86-100},
+  Volume                   = {354},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2004MNRAS.354...86R},
+  Doi                      = {10.1111/j.1365-2966.2004.08165.x},
+  Eprint                   = {astro-ph/0401124},
+  Keywords                 = {polarization, radiation mechanisms: non-thermal, gamma-rays: bursts},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.14}
+}
+
 @Article{ros07,
   Title                    = {Fallback accretion in the aftermath of a compact binary merger},
   Author                   = {Rosswog, S.},
@@ -13978,6 +14052,27 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2017.10.31}
+}
+
+@Article{tin08,
+  Title                    = {{Probing the Efficiency of Electron-Proton Coupling in Relativistic Collisionless Shocks through the Radio Polarimetry of Gamma-Ray Burst Afterglows}},
+  Author                   = {{Toma}, K. and {Ioka}, K. and {Nakamura}, T.},
+  Journal                  = {\apjl},
+  Year                     = {2008},
+
+  Month                    = feb,
+  Pages                    = {L123},
+  Volume                   = {673},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2008ApJ...673L.123T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/528740},
+  Eid                      = {L123},
+  Eprint                   = {0709.3332},
+  Keywords                 = {acceleration of particles, gamma rays: bursts, polarization, radio continuum: general},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.14}
 }
 
 @Article{tiyn06,
