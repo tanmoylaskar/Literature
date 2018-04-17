@@ -158,7 +158,7 @@
 
 @Article{abb+17,
   Title                    = {Enabling New ALMA Science with Improved Support for Time-Domain Observations},
-  Author                   = {Alexander, K.~D. and Berger, E. and Bower, G. and Casewell, S. and Cenko, S.~B. and Chatterjee, S. and Cleeves, I. and Cordes, J. and Drake, J. and Drout, M. and Dupuy, T. and Eftekhari, T. and Fazio, G. and Fong, W.-f. and Guillochon, J. and Gurwell, M. and Johnson, M. and Kaminski, T. and Kong, A. and Laskar, T. and Law, C. and Littlefair, S.~P. and MacGregor, M. and Maksym, W.~P. and Matthews, L. and McCollough, M. and Milam, S. and Moullet, A. and Nicholl, M. and Rizzuto, A. and Rothberg, B. and Seymour, A. and Villard, E. and Wilkes, B. and Williams, P.~K.~G. and Willner, S. and Yusuf-Zadeh, F.},
+  Author                   = {Alexander, K. and Berger, E. and Bower, G. and Casewell, S. and Cenko, S.~B. and Chatterjee, S. and Cleeves, I. and Cordes, J. and Drake, J. and Drout, M. and Dupuy, T. and Eftekhari, T. and Fazio, G. and Fong, W.-f. and Guillochon, J. and Gurwell, M. and Johnson, M. and Kaminski, T. and Kong, A. and Laskar, T. and Law, C. and Littlefair, S.~P. and MacGregor, M. and Maksym, W.~P. and Matthews, L. and McCollough, M. and Milam, S. and Moullet, A. and Nicholl, M. and Rizzuto, A. and Rothberg, B. and Seymour, A. and Villard, E. and Wilkes, B. and Williams, P.~K.~G. and Willner, S. and Yusuf-Zadeh, F.},
   Year                     = {2017},
 
   Month                    = mar,
@@ -7593,6 +7593,26 @@
   Timestamp                = {2010.05.14}
 }
 
+@Article{kvkb09,
+  Title                    = {{Magnetic acceleration of ultrarelativistic jets in gamma-ray burst sources}},
+  Author                   = {{Komissarov}, S.~S. and {Vlahakis}, N. and {K{\"o}nigl}, A. and {Barkov}, M.~V.},
+  Journal                  = {\mnras},
+  Year                     = {2009},
+
+  Month                    = apr,
+  Pages                    = {1182-1212},
+  Volume                   = {394},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2009MNRAS.394.1182K},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2009.14410.x},
+  Eprint                   = {0811.1467},
+  Keywords                 = {MHD , relativity , methods: numerical , gamma-rays: bursts},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.16}
+}
+
 @Article{kwhc10,
   Title                    = {Variation of microphysics in wind bubbles: an alternative mechanism for explaining the rebrightenings in Gamma-ray burst afterglows},
   Author                   = {Kong, S.~W. and Wong, A.~Y.~L. and Huang, Y.~F. and Cheng, K.~S. },
@@ -8076,9 +8096,7 @@
   Title                    = {{The Unique Afterglow of GRB 161219B I: A Refreshed Reverse Shock from Energy Injection}},
   Author                   = {{Laskar}, T. and {Alexander}, K. and {Berger}, E. and {Guidorzi}, C. and {Margutti}, R. and {Fong}, W.-f. and et al.},
   Journal                  = {submitted},
-  Year                     = {2017},
-
-  Month                    = oct,
+  Year                     = {2018},
 
   Archiveprefix            = {arXiv},
   Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
@@ -9659,6 +9677,25 @@
   Adsurl                   = {http://adsabs.harvard.edu/abs/2007ASPC..376..127M},
   Owner                    = {tanmoy},
   Timestamp                = {2013.05.10}
+}
+
+@Article{ml99,
+  Title                    = {{Generation of Magnetic Fields in the Relativistic Shock of Gamma-Ray Burst Sources}},
+  Author                   = {{Medvedev}, M.~V. and {Loeb}, A.},
+  Journal                  = {\apj},
+  Year                     = {1999},
+
+  Month                    = dec,
+  Pages                    = {697-706},
+  Volume                   = {526},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/1999ApJ...526..697M},
+  Doi                      = {10.1086/308038},
+  Eprint                   = {astro-ph/9904363},
+  Keywords                 = {GAMMA RAYS: BURSTS, INSTABILITIES, MAGNETIC FIELDS, POLARIZATION, RADIATION MECHANISMS: NONTHERMAL, SHOCK WAVES, Gamma Rays: Bursts, Instabilities, Magnetic Fields, Polarization, Radiation Mechanisms: Nonthermal, Shock Waves},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.16}
 }
 
 @Article{mfw+92,
@@ -15540,6 +15577,23 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.CO},
   Timestamp                = {2013.07.02}
+}
+
+@Article{zcst14,
+  Title                    = {{Dynamically important magnetic fields near accreting supermassive black holes}},
+  Author                   = {{Zamaninasab}, M. and {Clausen-Brown}, E. and {Savolainen}, T. and {Tchekhovskoy}, A.},
+  Journal                  = {\nat},
+  Year                     = {2014},
+
+  Month                    = jun,
+  Pages                    = {126-128},
+  Volume                   = {510},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2014Natur.510..126Z},
+  Doi                      = {10.1038/nature13399},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.16}
 }
 
 @Article{zbm+13,
