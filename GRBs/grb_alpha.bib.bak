@@ -4069,6 +4069,24 @@
   Timestamp                = {2011.05.08}
 }
 
+@Article{fdb+18,
+  Title                    = {{Measuring the viewing angle of GW170817 with electromagnetic and gravitational waves}},
+  Author                   = {{Finstad}, D. and {De}, S. and {Brown}, D.~A. and {Berger}, E. and {Biwer}, C.~M.},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2018},
+
+  Month                    = apr,
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180404179F},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1804.04179},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena, General Relativity and Quantum Cosmology},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2018.04.24}
+}
+
 @Article{fdm+98,
   Title                    = {The Spectrum of the Extragalactic Far-Infrared Background from the COBE FIRAS Observations},
   Author                   = {Fixsen, D.~J. and Dwek, E. and Mather, J.~C. and Bennett, C.~L. and Shafer, R.~A.},
@@ -5509,6 +5527,27 @@
   Doi                      = {10.1086/379110},
   Eprint                   = {astro-ph/0306322},
   Keywords                 = {Gamma Rays: Bursts, Magnetohydrodynamics: MHD, Polarization, Shock Waves},
+  Owner                    = {tanmoy},
+  Timestamp                = {2018.04.18}
+}
+
+@Article{gcs08,
+  Title                    = {{Opacity Buildup in Impulsive Relativistic Sources}},
+  Author                   = {{Granot}, J. and {Cohen-Tanugi}, J. and {Silva}, E.~d.~C.~e.},
+  Journal                  = {\apj},
+  Year                     = {2008},
+
+  Month                    = apr,
+  Pages                    = {92-126},
+  Volume                   = {677},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2008ApJ...677...92G},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/526414},
+  Eid                      = {92-126},
+  Eprint                   = {0708.4228},
+  Keywords                 = {galaxies: jets, gamma rays: bursts, gamma rays: theory, methods: analytical, relativity},
   Owner                    = {tanmoy},
   Timestamp                = {2018.04.18}
 }
@@ -16134,6 +16173,24 @@
   Keywords                 = {shock waves, stars: winds, outflows, gamma-rays: bursts},
   Owner                    = {tanmoy},
   Timestamp                = {2013.05.05}
+}
+
+@Article{46,
+  Title                    = {An invariant form for the prior probability in estimation problems},
+  Journal                  = {Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  Year                     = {1946},
+  Number                   = {1007},
+  Pages                    = {453--461},
+  Volume                   = {186},
+
+  Abstract                 = {It is shown that a certain differential form depending on the values of the parameters in a law of chance is invariant for all transformations of the parameters when the law is differentiable with regard to all parameters. For laws containing a location and a scale parameter a form with a somewhat restricted type of invariance is found even when the law is not everywhere differentiable with regard to the parameters. This form has the properties required to give a general rule for stating the prior probability in a large class of estimation problems.},
+  Doi                      = {10.1098/rspa.1946.0056},
+  Eprint                   = {http://rspa.royalsocietypublishing.org/content/186/1007/453.full.pdf},
+  ISSN                     = {0080-4630},
+  Owner                    = {tanmoy},
+  Publisher                = {The Royal Society},
+  Timestamp                = {2018.04.24},
+  Url                      = {http://rspa.royalsocietypublishing.org/content/186/1007/453}
 }
 
 @comment{jabref-meta: selector_keywords:}
