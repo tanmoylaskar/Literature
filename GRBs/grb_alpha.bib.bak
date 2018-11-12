@@ -1,5 +1,4 @@
-% This file was created with JabRef 2.10.
-% Encoding: ISO8859_1
+% Encoding: ISO-8859-1
 
 
 @Article{aaa+16a,
@@ -8733,16 +8732,26 @@
   Timestamp                = {2015.04.07}
 }
 
-@Article{lab+18,
-  Title                    = {{The Unique Afterglow of GRB 161219B I: A Refreshed Reverse Shock from Energy Injection}},
-  Author                   = {{Laskar}, T. and {Alexander}, K. and {Berger}, E. and {Guidorzi}, C. and {Margutti}, R. and {Fong}, W.-f. and et al.},
-  Journal                  = {ApJ, in press},
-  Year                     = {2018},
-
-  Archiveprefix            = {arXiv},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE}
+@ARTICLE{lab+18,
+   author = {{Laskar}, T. and {Alexander}, K.~D. and {Berger}, E. and {Guidorzi}, C. and 
+	{Margutti}, R. and {Fong}, W.-f. and {Kilpatrick}, C.~D. and 
+	{Milne}, P. and {Drout}, M.~R. and {Mundell}, C.~G. and {Kobayashi}, S. and 
+	{Lunnan}, R. and {Barniol Duran}, R. and {Menten}, K.~M. and 
+	{Ioka}, K. and {Williams}, P.~K.~G.},
+    title = "{First ALMA Light Curve Constrains Refreshed Reverse Shocks and Jet Magnetization in GRB 161219B}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1808.09476},
+ primaryClass = "astro-ph.HE",
+ keywords = {gamma-ray burst: general, gamma-ray burst: individual: GRB 161219B },
+     year = 2018,
+    month = aug,
+   volume = 862,
+      eid = {94},
+    pages = {94},
+      doi = {10.3847/1538-4357/aacbcc},
+   adsurl = {http://adsabs.harvard.edu/abs/2018ApJ...862...94L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
 @Article{lab+16,
@@ -14974,6 +14983,24 @@
   Timestamp                = {2010.12.08}
 }
 
+@Article{fla18,
+  Title                    = {{Investigating the Nature of Late-Time High-Energy GRB Emission Through Joint Fermi$\backslash$Swift Observations}},
+  Author                   = {{The Fermi LAT Collaboration}},
+  Journal                  = {ArXiv e-prints},
+  Year                     = {2018},
+
+  Month                    = aug,
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180801683T},
+  Archiveprefix            = {arXiv},
+  Eprint                   = {1808.01683},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2018.08.07}
+}
+
 @Article{lig17,
   Title                    = {{GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral}},
   Author                   = {{The LIGO Scientific Collaboration} and {The Virgo Collaboration}},
@@ -16980,19 +17007,73 @@
   Timestamp                = {2013.05.05}
 }
 
-@comment{jabref-meta: selector_keywords:}
+@Article{ahs+14,
+  author        = {{Anderson}, G.~E. and {van der Horst}, A.~J. and {Staley}, T.~D. and {Fender}, R.~P. and {Wijers}, R.~A.~M.~J. and {Scaife}, A.~M.~M. and {Rumsey}, C. and {Titterington}, D.~J. and {Rowlinson}, A. and {Saunders}, R.~D.~E.},
+  title         = {{Probing the bright radio flare and afterglow of GRB 130427A with the Arcminute Microkelvin Imager}},
+  journal       = {\mnras},
+  year          = {2014},
+  volume        = {440},
+  pages         = {2059-2065},
+  month         = may,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2014MNRAS.440.2059A},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/stu478},
+  eprint        = {1403.2217},
+  keywords      = {gamma-ray burst: individual: GRB 130427A, radio continuum: stars},
+  primaryclass  = {astro-ph.HE},
+}
 
-@comment{jabref-meta: psDirectory:.;}
+@Article{ash+18,
+  author        = {{Anderson}, G.~E. and {Staley}, T.~D. and {van der Horst}, A.~J. and {Fender}, R.~P. and {Rowlinson}, A. and {Mooley}, K.~P. and {Broderick}, J.~W. and {Wijers}, R.~A.~M.~J. and {Rumsey}, C. and {Titterington}, D.~J.},
+  title         = {{The Arcminute Microkelvin Imager catalogue of gamma-ray burst afterglows at 15.7 GHz}},
+  journal       = {\mnras},
+  year          = {2018},
+  volume        = {473},
+  pages         = {1512-1536},
+  month         = jan,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2018MNRAS.473.1512A},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/stx2407},
+  eprint        = {1709.06232},
+  keywords      = {gamma-ray burst: general, radio continuum: transients},
+  primaryclass  = {astro-ph.HE},
+}
 
-@comment{jabref-meta: selector_journal:}
+@Article{sms18,
+  author        = {{Suzuki}, A. and {Maeda}, K. and {Shigeyama}, T.},
+  title         = {{Relativistic supernova ejecta colliding with a circumstellar medium: an application to the low-luminosity GRB 171205A}},
+  journal       = {ArXiv e-prints},
+  year          = {2018},
+  month         = nov,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2018arXiv181103240S},
+  archiveprefix = {arXiv},
+  eprint        = {1811.03240},
+  keywords      = {Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
 
-@comment{jabref-meta: pdfDirectory:.;}
+@Article{lskb10,
+  author        = {{Levesque}, E.~M. and {Soderberg}, A.~M. and {Kewley}, L.~J. and {Berger}, E.},
+  title         = {{No Correlation Between Host Galaxy Metallicity and Gamma-ray Energy Release for Long-duration Gamma-ray Bursts}},
+  journal       = {\apj},
+  year          = {2010},
+  volume        = {725},
+  pages         = {1337-1341},
+  month         = dec,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2010ApJ...725.1337L},
+  archiveprefix = {arXiv},
+  doi           = {10.1088/0004-637X/725/1/1337},
+  eprint        = {1007.0439},
+  keywords      = {gamma-ray burst: general},
+  primaryclass  = {astro-ph.HE},
+}
 
-@comment{jabref-meta: fileDirectory:.;}
+@Comment{jabref-meta: databaseType:bibtex;}
 
-@comment{jabref-meta: fileDirectory-tanmoy-Artemis:.;}
+@Comment{jabref-meta: fileDirectory:.;}
 
-@comment{jabref-meta: selector_publisher:}
-
-@comment{jabref-meta: selector_author:}
-
+@Comment{jabref-meta: fileDirectory-tanmoy-Artemis:.;}
