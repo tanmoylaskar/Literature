@@ -300,24 +300,6 @@
   Timestamp                = {2018.02.09}
 }
 
-@Article{amb+18,
-  Title                    = {{A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet}},
-  Author                   = {{Alexander}, K.~D. and {Margutti}, R. and {Blanchard}, P.~K. and {Fong}, W. and {Berger}, E. and {Hajela}, A. and {Eftekhari}, T. and {Chornock}, R. and {Cowperthwaite}, P.~S. and {Giannios}, D. and {Guidorzi}, C. and {Kathirgamaraju}, A. and {MacFadyen}, A. and {Metzger}, B.~D. and {Nicholl}, M. and {Sironi}, L. and {Villar}, V.~A. and {Williams}, P.~K.~G. and {Xie}, X. and {Zrake}, J.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = may,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180502870A},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1805.02870},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.07.10}
-}
-
 @Article{acjv79,
   Title                    = {Nitrogen and oxygen abundances in galaxies},
   Author                   = {Alloin, D. and Collin-Souffrin, S. and Joly, M. and Vigroux, L.},
@@ -3727,24 +3709,6 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2015.11.19}
-}
-
-@Article{dqkk18,
-  Title                    = {{Jet Dynamics in Compact Object Mergers: GW170817 Likely had a Successful Jet}},
-  Author                   = {{Duffell}, P.~C. and {Quataert}, E. and {Kasen}, D. and {Klion}, H.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = jun,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180610616D},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1806.10616},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.07.13}
 }
 
 @Article{veer14,
@@ -12905,24 +12869,6 @@ archivePrefix = "arXiv",
   Timestamp                = {2016.11.07}
 }
 
-@Article{rsic+18,
-  Title                    = {{Low frequency view of GW 170817/GRB 170817A with the Giant Meterwave Radio Telescope}},
-  Author                   = {{Resmi}, L. and {Schulze}, S. and {Ishwara Chandra}, C.~H. and {Misra}, K. and {Buchner}, J. and {De Pasquale}, M. and {Sanchez Ramirez}, R. and {Klose}, S. and {Kim}, S. and {Tanvir}, N.~R. and {O'Brien}, P.~T.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = mar,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180302768R},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1803.02768},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.07.11}
-}
-
 @Article{rz16,
   Title                    = {Gamma-ray Burst Reverse Shock Emission in Early Radio Afterglows},
   Author                   = {Resmi, L. and Zhang, B.},
@@ -16342,24 +16288,6 @@ archivePrefix = "arXiv",
   Timestamp                = {2014.02.17}
 }
 
-@Article{xzm18,
-  Title                    = {{Numerical simulations of the jet dynamics and synchrotron radiation of binary neutron star merger event GW170817/GRB170817A}},
-  Author                   = {{Xie}, X. and {Zrake}, J. and {MacFadyen}, A.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = apr,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180409345X},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1804.09345},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.07.11}
-}
-
 @Article{xpk+12,
   Title                    = {The shallow-decay phase in both the optical and X-ray afterglows of Swift GRB 090529A: energy injection into a wind-type medium?},
   Author                   = {Xin, L.~P. and Pozanenko, A. and Kann, D.~A. and Xu, D. and Gorosabel, J. and Leloudas, G. and Wei, J.~Y. and Andreev, M. and Qin, S.~F. and Ibrahimov, M. and Han, X.~H. and de Ugarte Postigo, A. and Qiu, Y.~L. and Deng, J.~S. and Volnova, A. and Jakobsson, P. and Castro-Tirado, A.~J. and Aceituno, F. and Fynbo, J.~P.~U. and Wang, J. and Sanchez-Ramirez, R. and Kouprianov, V. and Zheng, W.~K. and Tello, J.~C. and Wu, C.},
@@ -17091,6 +17019,96 @@ archivePrefix = "arXiv",
   doi           = {10.1111/j.1745-3933.2008.00533.x},
   eprint        = {0811.3248},
   keywords      = {radiation mechanisms: non-thermal, relativity, shock waves, gamma-rays: bursts},
+}
+
+@Article{lzl13,
+  author        = {{Lei}, W.-H. and {Zhang}, B. and {Liang}, E.-W.},
+  title         = {{Hyperaccreting Black Hole as Gamma-Ray Burst Central Engine. I. Baryon Loading in Gamma-Ray Burst Jets}},
+  journal       = {\apj},
+  year          = {2013},
+  volume        = {765},
+  pages         = {125},
+  month         = mar,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2013ApJ...765..125L},
+  archiveprefix = {arXiv},
+  doi           = {10.1088/0004-637X/765/2/125},
+  eid           = {125},
+  eprint        = {1209.4427},
+  keywords      = {accretion, accretion disks, black hole physics, magnetic fields },
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{amb+18,
+  author        = {{Alexander}, K.~D. and {Margutti}, R. and {Blanchard}, P.~K. and {Fong}, W. and {Berger}, E. and {Hajela}, A. and {Eftekhari}, T. and {Chornock}, R. and {Cowperthwaite}, P.~S. and {Giannios}, D. and {Guidorzi}, C. and {Kathirgamaraju}, A. and {MacFadyen}, A. and {Metzger}, B.~D. and {Nicholl}, M. and {Sironi}, L. and {Villar}, V.~A. and {Williams}, P.~K.~G. and {Xie}, X. and {Zrake}, J.},
+  title         = {{A Decline in the X-Ray through Radio Emission from GW170817 Continues to Support an Off-axis Structured Jet}},
+  journal       = {\apj},
+  year          = {2018},
+  volume        = {863},
+  pages         = {L18},
+  month         = Aug,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/\#abs/2018ApJ...863L..18A},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/2041-8213/aad637},
+  eid           = {L18},
+  eprint        = {1805.02870},
+  keywords      = {gravitational waves, relativistic processes, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{rsi+18,
+  author        = {{Resmi}, L. and {Schulze}, S. and {Ishwara-Chandra}, C.~H. and {Misra}, K. and {Buchner}, J. and {De Pasquale}, M. and {S{\'a}nchez- Ram{\'\i}rez}, R. and {Klose}, S. and {Kim}, S. and {Tanvir}, N.~R. and {O{\textquoteright}Brien}, P.~T.},
+  title         = {{Low-frequency View of GW170817/GRB 170817A with the Giant Metrewave Radio Telescope}},
+  journal       = {\apj},
+  year          = {2018},
+  volume        = {867},
+  pages         = {57},
+  month         = Nov,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/\#abs/2018ApJ...867...57R},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4357/aae1a6},
+  eid           = {57},
+  eprint        = {1803.02768},
+  keywords      = {gamma-ray burst: individual: GRB 170817A, gravitational waves, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{xzm18,
+  author        = {{Xie}, Xiaoyi and {Zrake}, Jonathan and {MacFadyen}, Andrew},
+  title         = {{Numerical Simulations of the Jet Dynamics and Synchrotron Radiation of Binary Neutron Star Merger Event GW170817/GRB 170817A}},
+  journal       = {\apj},
+  year          = {2018},
+  volume        = {863},
+  pages         = {58},
+  month         = Aug,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/\#abs/2018ApJ...863...58X},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4357/aacf9c},
+  eid           = {58},
+  eprint        = {1804.09345},
+  keywords      = {hydrodynamics, relativistic processes, shock waves, X-rays: bursts, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{dqkk18,
+  author        = {{Duffell}, Paul C. and {Quataert}, Eliot and {Kasen}, Daniel and {Klion}, Hannah},
+  title         = {{Jet Dynamics in Compact Object Mergers: GW170817 Likely Had a Successful Jet}},
+  journal       = {\apj},
+  year          = {2018},
+  volume        = {866},
+  pages         = {3},
+  month         = Oct,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/\#abs/2018ApJ...866....3D},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4357/aae084},
+  eid           = {3},
+  eprint        = {1806.10616},
+  keywords      = {gamma-ray burst: general, gravitational waves, hydrodynamics, ISM: jets and outflows, relativistic processes, shock waves, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
