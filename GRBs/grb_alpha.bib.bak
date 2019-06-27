@@ -286,24 +286,6 @@
   Timestamp                = {2018.02.09}
 }
 
-@Article{amb+18,
-  Title                    = {{A Decline in the X-ray through Radio Emission from GW170817 Continues to Support an Off-Axis Structured Jet}},
-  Author                   = {{Alexander}, K.~D. and {Margutti}, R. and {Blanchard}, P.~K. and {Fong}, W. and {Berger}, E. and {Hajela}, A. and {Eftekhari}, T. and {Chornock}, R. and {Cowperthwaite}, P.~S. and {Giannios}, D. and {Guidorzi}, C. and {Kathirgamaraju}, A. and {MacFadyen}, A. and {Metzger}, B.~D. and {Nicholl}, M. and {Sironi}, L. and {Villar}, V.~A. and {Williams}, P.~K.~G. and {Xie}, X. and {Zrake}, J.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = may,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180502870A},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1805.02870},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.07.10}
-}
-
 @Article{acjv79,
   Title                    = {Nitrogen and oxygen abundances in galaxies},
   Author                   = {Alloin, D. and Collin-Souffrin, S. and Joly, M. and Vigroux, L.},
@@ -4469,26 +4451,23 @@
 }
 
 @Article{fbmz15,
-  Title                    = {A Decade of Short-duration Gamma-Ray Burst Broadband Afterglows: Energetics, Circumburst Densities, and Jet Opening Angles},
-  Author                   = {Fong, W. and Berger, E. and Margutti, R. and Zauderer, B.~A.
- },
-  Journal                  = {\apj},
-  Year                     = {2015},
-
-  Month                    = dec,
-  Pages                    = {102},
-  Volume                   = {815},
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2015ApJ...815..102F},
-  Archiveprefix            = {arXiv},
-  Doi                      = {10.1088/0004-637X/815/2/102},
-  Eid                      = {102},
-  Eprint                   = {1509.02922},
-  Keywords                 = {catalogs, gamma-ray burst: general},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2017.04.17}
+  author        = {Fong, W. and Berger, E. and Margutti, R. and Zauderer, B.~A.},
+  title         = {A Decade of Short-duration Gamma-Ray Burst Broadband Afterglows: Energetics, Circumburst Densities, and Jet Opening Angles},
+  journal       = {\apj},
+  year          = {2015},
+  volume        = {815},
+  pages         = {102},
+  month         = dec,
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {http://adsabs.harvard.edu/abs/2015ApJ...815..102F},
+  archiveprefix = {arXiv},
+  doi           = {10.1088/0004-637X/815/2/102},
+  eid           = {102},
+  eprint        = {1509.02922},
+  keywords      = {catalogs, gamma-ray burst: general},
+  owner         = {tanmoy},
+  primaryclass  = {astro-ph.HE},
+  timestamp     = {2017.04.17},
 }
 
 @Article{fbm+12,
@@ -17270,13 +17249,17 @@
   primaryclass  = {astro-ph.GA},
 }
 
-@Article{14C,
-  author        = {Laskar, T.},
+@Article{lag+19,
+  author        = {Laskar, T. and Alexander, K.~D. and Gill, R. and Granot, J. and Berger, E. and Mundell, C.~G. and Barniol Duran, R. and Bolmer, J. and Duffell, P. and van Eerten, H. and Fong, W.-f. and Kobayashi, S. and Margutti, R. and Schady, P.},
   title         = {ALMA Detection of a Linearly Polarized Reverse Shock in GRB 190114C},
+  journal       = {ApJL},
   year          = {2019},
+  volume        = {878},
+  pages         = {L26},
   abstract      = {We present ALMA 97.5 GHz total intensity and linear polarization observations of the mm-band afterglow of GRB 190114C spanning 2.2 to 5.2 hours after the burst. We detect linear polarization at the $\approx 5\,\sigma$ level, decreasing from $\Pi=(0.87\pm0.13)\%$ to $(0.60\pm0.19)\%$, and evolving in polarization position angle from $(10\pm5)^\circ$ to $(-44\pm12)^\circ$ during the course of the observations. This represents the first detection of polarized millimeter emission in a $\gamma$-ray burst. We show that the optical and X-ray observations between $0.03$ days and $\sim0.3$ days are consistent with a fast cooling forward shock expanding into a wind environment. However, the optical observations at $\lesssim0.03$ days, as well as the radio and millimeter observations arise from a separate component, which we interpret as emission from the reverse-shocked ejecta. Using the measured linear polarization, we constrain the coherence scale of tangled magnetic fields in the ejecta to an angular size of $\theta_{\rm B} \approx10^{-3}$ radian, while the rotation of the polarization angle rules out the presence of large scale, ordered axisymmetric magnetic fields, and in particular a large scale toroidal field, in the jet.},
   archiveprefix = {arXiv},
   date          = {2019-04-15},
+  doi           = {10.3847/2041-8213/ab2247},
   eid           = {88},
   eprint        = {1904.07261},
   eprintclass   = {astro-ph.HE},
@@ -17285,6 +17268,7 @@
   keywords      = {gamma-ray burst: generaL},
   owner         = {tanmoy},
   primaryclass  = {astro-ph.HE},
+  url           = {https://iopscience.iop.org/article/10.3847/2041-8213/ab2247},
 }
 
 @Article{01A,
@@ -17407,6 +17391,57 @@
   doi           = {10.1093/mnras/stv2591},
   eprint        = {1508.02721},
   keywords      = {gamma-ray burst: general, stars: magnetars, stars: magnetic field, galaxies: jets, quasars: general},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{rko+17,
+  author        = {{Roming}, Peter and {Koch}, T. Scott and {Oates}, Samantha R. and {Porterfield}, Blair L. and {Bayless}, Amanda J. and {Breeveld}, Alice A. and {Gronwall}, Caryl and {Kuin}, N.~P.~M. and {Page}, Mat J. and {de Pasquale}, Massimiliano},
+  title         = {{A Large Catalog of Homogeneous Ultra-Violet/Optical GRB Afterglows: Temporal and Spectral Evolution}},
+  journal       = {\apjs},
+  year          = {2017},
+  volume        = {228},
+  number        = {2},
+  pages         = {13},
+  month         = {Feb},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2017ApJS..228...13R},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4365/228/2/13},
+  eid           = {13},
+  eprint        = {1701.03713},
+  keywords      = {catalogs, gamma-ray burst: general, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{fdp+19,
+  author        = {{Fraija}, N. and {Dichiara}, S. and {Pedreira}, A.~C. Caligula do E.~S. and {Galvan-Gamez}, A. and {Becerra}, R.~L. and {Montalvo}, A. and {Montero}, J. and {Betancourt Kamenetskaia}, B. and {Zhang}, B.~B.},
+  title         = {{Modeling observations of GRB 180720B: From radio to GeV gamma-rays}},
+  journal       = {arXiv e-prints},
+  year          = {2019},
+  pages         = {arXiv:1905.13572},
+  month         = {May},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2019arXiv190513572F},
+  archiveprefix = {arXiv},
+  eid           = {arXiv:1905.13572},
+  eprint        = {1905.13572},
+  keywords      = {Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{kfc+19,
+  author        = {{Kangas}, Tuomas and {Fruchter}, Andrew S. and {Cenko}, S. Bradley and {Corsi}, Alessandra and {Ugarte de Postigo}, Antonio and {Pe'er}, Asaf and {Vogel}, Stuart N. and {Cucchiara}, Antonino and {Gompertz}, Benjamin and {Graham}, John},
+  title         = {{The late-time afterglow evolution of long gamma-ray bursts GRB 160625B and GRB 160509A}},
+  journal       = {arXiv e-prints},
+  year          = {2019},
+  pages         = {arXiv:1906.03493},
+  month         = {Jun},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2019arXiv190603493K},
+  archiveprefix = {arXiv},
+  eid           = {arXiv:1906.03493},
+  eprint        = {1906.03493},
+  keywords      = {Astrophysics - High Energy Astrophysical Phenomena},
   primaryclass  = {astro-ph.HE},
 }
 
