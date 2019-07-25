@@ -17207,6 +17207,38 @@
   keywords = {Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal},
 }
 
+@Article{phtp17,
+  author        = {{Perley}, Daniel A. and {Hjorth}, Jens and {Tanvir}, Nial R. and {Perley}, Richard A.},
+  title         = {{Late-time VLA reobservations rule out ULIRG-like host galaxies for most pre- Swift long-duration gamma-ray bursts}},
+  journal       = {\mnras},
+  year          = {2017},
+  volume        = {465},
+  number        = {1},
+  pages         = {970-977},
+  month         = {Feb},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.465..970P},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/stw2789},
+  eprint        = {1609.04015},
+  keywords      = {gamma-ray burst: general, galaxies: starburst, radio continuum: galaxies, submillimetre: galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{lvg+19,
+  author  = {{Lipunov}, V.~M. and {Vladimirov}, V.~V. and {Gorbovskoi}, E.~S. and {Kuznetsov}, A.~S. and {Zimnukhov}, D.~S. and {Balanutsa}, P.~V. and {Kornilov}, V.~G. and {Tyurina}, N.~V. and {Gress}, O.~A. and {Vlasenko}, D.~M. and {Gabovich}, A.~M. and {Yurkov}, V.~V. and {Kuvshinov}, D.~A. and {Senik}, V.~A.},
+  title   = {{The Concept of a Multi-Functional Astronomy Complex and Dynamically Integrated Database Applied to Multi-Channel Observations with the MASTER Global Network}},
+  journal = {Astronomy Reports},
+  year    = {2019},
+  volume  = {63},
+  number  = {4},
+  pages   = {293-309},
+  month   = {Apr},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl  = {https://ui.adsabs.harvard.edu/abs/2019ARep...63..293L},
+  doi     = {10.1134/S1063772919040073},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:.;}
