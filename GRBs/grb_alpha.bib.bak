@@ -17239,6 +17239,37 @@
   doi     = {10.1134/S1063772919040073},
 }
 
+@Article{tlm+17,
+  author  = {{Troja}, E. and {Lipunov}, V.~M. and {Mundell}, C.~G. and {Butler}, N.~R. and {Watson}, A.~M. and {Kobayashi}, S. and {Cenko}, S.~B. and {Marshall}, F.~E. and {Ricci}, R. and {Fruchter}, A. and {Wieringa}, M.~H. and {Gorbovskoy}, E.~S. and {Kornilov}, V. and {Kutyrev}, A. and {Lee}, W.~H. and {Toy}, V. and {Tyurina}, N.~V. and {Budnev}, N.~M. and {Buckley}, D.~A.~H. and {Gonz{\'a}lez}, J. and {Gress}, O. and {Horesh}, A. and {Panasyuk}, M.~I. and {Prochaska}, J.~X. and {Ramirez-Ruiz}, E. and {Rebolo Lopez}, R. and {Richer}, M.~G. and {Roman-Zuniga}, C. and {Serra-Ricart}, M. and {Yurkov}, V. and {Gehrels}, N.},
+  title   = {{Significant and variable linear polarization during the prompt optical flash of GRB 160625B.}},
+  journal = {\nat},
+  year    = {2017},
+  volume  = {547},
+  pages   = {425-427},
+  month   = {Jul},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl  = {https://ui.adsabs.harvard.edu/abs/2017Natur.547..425T},
+  doi     = {10.1038/nature23289},
+}
+
+@Article{bdg15,
+  author        = {{Barniol Duran}, R. and {Giannios}, D.},
+  title         = {{Radio rebrightening of the GRB afterglow by the accompanying supernova}},
+  journal       = {\mnras},
+  year          = {2015},
+  volume        = {454},
+  number        = {2},
+  pages         = {1711-1718},
+  month         = {Dec},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1711B},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/stv2004},
+  eprint        = {1504.06322},
+  keywords      = {radiation mechanisms: non-thermal, methods: analytical, supernovae: general, gamma-ray burst: general, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: fileDirectory:.;}
