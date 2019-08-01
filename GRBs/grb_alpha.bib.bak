@@ -8849,7 +8849,7 @@
   Eprint                   = {1904.07261},
   Eprintclass              = {astro-ph.HE},
   Eprinttype               = {arXiv},
-  File                     = {online:http\://arxiv.org/pdf/1904.07261v1:PDF},
+  File                     = {:Laskar_etal_2019a.pdf:PDF},
   Keywords                 = {gamma-ray burst: generaL},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
