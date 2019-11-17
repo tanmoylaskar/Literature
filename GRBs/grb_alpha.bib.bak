@@ -5822,20 +5822,24 @@
 
 @Article{gdcr18,
   Title                    = {{Off-axis afterglow light curves and images from 2D hydrodynamic simulations of double-sided GRB jets in a stratified external medium}},
-  Author                   = {{Granot}, J. and {De Colle}, F. and {Ramirez-Ruiz}, E.},
-  Journal                  = {ArXiv e-prints},
+  Author                   = {{Granot}, Jonathan and {De Colle}, Fabio and {Ramirez-Ruiz}, Enrico},
+  Journal                  = {\mnras},
   Year                     = {2018},
 
-  Month                    = mar,
+  Month                    = {Dec},
+  Number                   = {2},
+  Pages                    = {2711-2720},
+  Volume                   = {481},
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv180305856G},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.2711G},
   Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/sty2454},
   Eprint                   = {1803.05856},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Keywords                 = {gravitational waves, hydrodynamics, relativistic processes, methods: numerical, gamma-ray burst: general, ISM: jets and outflows, Astrophysics - High Energy Astrophysical Phenomena},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2018.03.16}
+  Timestamp                = {2019.08.30}
 }
 
 @Article{gk03,
@@ -6629,24 +6633,6 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2013.11.07}
-}
-
-@Article{hbdm15,
-  Title                    = {X-ray flares from dense shells formed in gamma-ray burst explosions},
-  Author                   = {Hascoet, R. and Beloborodov, A.~M. and Daigne, F. and Mochkovitch, R.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2015},
-
-  Month                    = mar,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2015arXiv150308333H},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1503.08333},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2015.03.31}
 }
 
 @Article{hke+11,
@@ -15050,22 +15036,6 @@
   Timestamp                = {2013.07.18}
 }
 
-@Article{sms18,
-  Title                    = {{Relativistic supernova ejecta colliding with a circumstellar medium: an application to the low-luminosity GRB 171205A}},
-  Author                   = {{Suzuki}, A. and {Maeda}, K. and {Shigeyama}, T.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2018},
-
-  Month                    = nov,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2018arXiv181103240S},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1811.03240},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Primaryclass             = {astro-ph.HE}
-}
-
 @Article{slt+10,
   Title                    = {{The host galaxies of core-collapse supernovae and gamma-ray bursts}},
   Author                   = {{Svensson}, K.~M. and {Levan}, A.~J. and {Tanvir}, N.~R. and {Fruchter}, A.~S. and {Strolger}, L.-G.},
@@ -15894,6 +15864,26 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2013.11.12}
+}
+
+@Article{ub07,
+  Title                    = {{On the Mechanism of Gamma-Ray Burst Afterglows}},
+  Author                   = {{Uhm}, Z. Lucas and {Beloborodov}, Andrei M.},
+  Journal                  = {\apjl},
+  Year                     = {2007},
+
+  Month                    = {Aug},
+  Number                   = {2},
+  Pages                    = {L93-L96},
+  Volume                   = {665},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2007ApJ...665L..93U},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1086/519837},
+  Eprint                   = {astro-ph/0701205},
+  Keywords                 = {Gamma Rays: Bursts, Hydrodynamics, Radiation Mechanisms: Nonthermal, Relativity, Shock Waves, Astrophysics},
+  Primaryclass             = {astro-ph}
 }
 
 @Article{uz14,
@@ -17520,22 +17510,38 @@
   Timestamp                = {2013.05.05}
 }
 
-@Article{ub07,
-  author        = {{Uhm}, Z. Lucas and {Beloborodov}, Andrei M.},
-  title         = {{On the Mechanism of Gamma-Ray Burst Afterglows}},
-  journal       = {\apjl},
-  year          = {2007},
-  volume        = {665},
-  number        = {2},
-  pages         = {L93-L96},
-  month         = {Aug},
+@Article{hbdm17,
+  author   = {{Hasco{\"e}t}, R. and {Beloborodov}, A.~M. and {Daigne}, F. and {Mochkovitch}, R.},
+  title    = {{X-ray flares from dense shells formed in gamma-ray burst explosions}},
+  journal  = {\mnras},
+  year     = {2017},
+  volume   = {472},
+  number   = {1},
+  pages    = {L94-L98},
+  month    = {Nov},
+  adsnote  = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl   = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472L..94H},
+  doi      = {10.1093/mnrasl/slx143},
+  keywords = {radiation mechanisms: non-thermal, shock waves, gamma-ray burst: general},
+}
+
+@Article{sms19,
+  author        = {{Suzuki}, Akihiro and {Maeda}, Keiichi and {Shigeyama}, Toshikazu},
+  title         = {{Relativistic Supernova Ejecta Colliding with a Circumstellar Medium: An Application to the Low-luminosity GRB 171205A}},
+  journal       = {\apj},
+  year          = {2019},
+  volume        = {870},
+  number        = {1},
+  pages         = {38},
+  month         = {Jan},
   adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
-  adsurl        = {https://ui.adsabs.harvard.edu/abs/2007ApJ...665L..93U},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2019ApJ...870...38S},
   archiveprefix = {arXiv},
-  doi           = {10.1086/519837},
-  eprint        = {astro-ph/0701205},
-  keywords      = {Gamma Rays: Bursts, Hydrodynamics, Radiation Mechanisms: Nonthermal, Relativity, Shock Waves, Astrophysics},
-  primaryclass  = {astro-ph},
+  doi           = {10.3847/1538-4357/aaef85},
+  eid           = {38},
+  eprint        = {1811.03240},
+  keywords      = {gamma-ray burst: general, gamma-ray burst: individual: GRB 171205A, radiation mechanisms: non-thermal, shock waves, supernovae: general, supernovae: individual: SN 2017iuk, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
