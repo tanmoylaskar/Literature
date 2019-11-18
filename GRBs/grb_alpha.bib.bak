@@ -6635,24 +6635,6 @@
   Timestamp                = {2013.11.07}
 }
 
-@Article{hbdm15,
-  Title                    = {X-ray flares from dense shells formed in gamma-ray burst explosions},
-  Author                   = {Hascoet, R. and Beloborodov, A.~M. and Daigne, F. and Mochkovitch, R.},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2015},
-
-  Month                    = mar,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2015arXiv150308333H},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1503.08333},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2015.03.31}
-}
-
 @Article{hke+11,
   Title                    = {CO Observations of the Host Galaxy of GRB000418 at z = 1.1},
   Author                   = {Hatsukade, B. and Kohno, K. and Endo, A. and Nakanishi, K. and Ohta, K.},
@@ -17545,6 +17527,21 @@
   publisher = {Oxford University Press},
 }
 
+@Article{hbdm17,
+  author   = {{Hasco{\"e}t}, R. and {Beloborodov}, A.~M. and {Daigne}, F. and {Mochkovitch}, R.},
+  title    = {{X-ray flares from dense shells formed in gamma-ray burst explosions}},
+  journal  = {\mnras},
+  year     = {2017},
+  volume   = {472},
+  number   = {1},
+  pages    = {L94-L98},
+  month    = {Nov},
+  adsnote  = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl   = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.472L..94H},
+  doi      = {10.1093/mnrasl/slx143},
+  keywords = {radiation mechanisms: non-thermal, shock waves, gamma-ray burst: general},
+}
+
 @Article{sms19,
   author        = {{Suzuki}, Akihiro and {Maeda}, Keiichi and {Shigeyama}, Toshikazu},
   title         = {{Relativistic Supernova Ejecta Colliding with a Circumstellar Medium: An Application to the Low-luminosity GRB 171205A}},
@@ -17576,8 +17573,6 @@
   eprint  = {https://aip.scitation.org/doi/pdf/10.1063/1.865132},
   url     = { 
         https://aip.scitation.org/doi/abs/10.1063/1.865132
-    
-},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
