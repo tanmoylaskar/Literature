@@ -8759,22 +8759,6 @@
   Timestamp                = {2015.04.07}
 }
 
-@Article{01A,
-  Title                    = {181201A},
-  Author                   = {Laskar, T.},
-  Journal                  = {ApJ, submitted},
-  Year                     = {2019},
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2016ApJ...833...88L},
-  Archiveprefix            = {arXiv},
-  Eid                      = {88},
-  Keywords                 = {gamma-ray burst: generaL},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2019.04.13}
-}
-
 @Article{lab+16,
   Title                    = {A Reverse Shock in GRB 160509A},
   Author                   = {Laskar, T. and Alexander, K.~D. and Berger, E. and Fong, W.-f. and Margutti, R. and Shivvers, I. and Williams, P.~K.~G. and Kopa\v c, D. and Kobayashi, S. and Mundell, C. and Gomboc, A. and Zheng, W. and Menten, K.~M. and Graham, M.~L. and Filippenko, A.~V.},
@@ -9007,34 +8991,6 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.SR},
   Timestamp                = {2018.01.19}
-}
-
-@Article{lves+19,
-  Title                    = {{A Reverse Shock in GRB 181201A}},
-  Author                   = {{Laskar}, Tanmoy and {van Eerten}, Hendrik and {Schady}, Patricia and
- {Mundell}, C.~G. and {Alexander}, Kate D. and {Barniol Duran}, Rodolfo and
- {Berger}, Edo and {Bolmer}, J. and {Chornock}, Ryan and
- {Coppejans}, Deanne and {Fong}, Wen-fai and {Gomboc}, Andreja and
- {Jordana}, Nuria and {Kobayashi}, Shiho and {Margutti}, Raffaella and
- {Menten}, Karl M. and {Sari}, Re'em and {Yamazaki}, Ryo and
- {Lipunov}, V.~M. and {Gorbovskoy}, E. and {Kornilov}, V.~G. and
- {Tyurina}, N. and {Zimnukhov}, D. and {Podesta}, R. and {Levato}, H. and
- {Buckley}, D.~A.~H. and {Tlatov}, A. and {Rebolo}, R. and
- {Serra-Ricart}, M.},
-  Year                     = {2019},
-
-  Month                    = {Jul},
-  Pages                    = {arXiv:1907.13128},
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019arXiv190713128L},
-  Archiveprefix            = {arXiv},
-  Eid                      = {arXiv:1907.13128},
-  Eprint                   = {1907.13128},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2019.08.01}
 }
 
 @Article{lbb+15,
@@ -15430,24 +15386,6 @@
   Timestamp                = {2018.08.07}
 }
 
-@Article{lig17,
-  Title                    = {{GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral}},
-  Author                   = {{The LIGO Scientific Collaboration} and {The Virgo Collaboration}},
-  Journal                  = {ArXiv e-prints},
-  Year                     = {2017},
-
-  Month                    = oct,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2017arXiv171005832T},
-  Archiveprefix            = {arXiv},
-  Eprint                   = {1710.05832},
-  Keywords                 = {General Relativity and Quantum Cosmology, Astrophysics - High Energy Astrophysical Phenomena},
-  Owner                    = {tanmoy},
-  Primaryclass             = {gr-qc},
-  Timestamp                = {2017.10.23}
-}
-
 @Book{tms17,
   Title                    = {{Interferometry and Synthesis in Radio Astronomy, 3rd Edition}},
   Author                   = {{Thompson}, A.~R. and {Moran}, J.~M. and {Swenson}, Jr., G.~W. },
@@ -17527,6 +17465,7 @@
   publisher = {Oxford University Press},
 }
 
+
 @Article{hbdm17,
   author   = {{Hasco{\"e}t}, R. and {Beloborodov}, A.~M. and {Daigne}, F. and {Mochkovitch}, R.},
   title    = {{X-ray flares from dense shells formed in gamma-ray burst explosions}},
@@ -17561,7 +17500,7 @@
   primaryclass  = {astro-ph.HE},
 }
 
-@Article{doi:10.1063/1.865132,
+@Article{lmm85,
   author  = {Lanza,A. and Miller,J. C. and Motta,S.},
   title   = {Formation and damping of relativistic strong shocks in a Synge gas},
   journal = {The Physics of Fluids},
@@ -17571,12 +17510,63 @@
   pages   = {97-103},
   doi     = {10.1063/1.865132},
   eprint  = {https://aip.scitation.org/doi/pdf/10.1063/1.865132},
-  url     = { 
-        https://aip.scitation.org/doi/abs/10.1063/1.865132
+  url     = {https://aip.scitation.org/doi/abs/10.1063/1.865132},
+}
+
+@Article{cmdd18,
+  author        = {{Carnall}, A.~C. and {McLure}, R.~J. and {Dunlop}, J.~S. and {Dav{\'e}}, R.},
+  title         = {{Inferring the star formation histories of massive quiescent galaxies with BAGPIPES: evidence for multiple quenching mechanisms}},
+  journal       = {\mnras},
+  year          = {2018},
+  volume        = {480},
+  number        = {4},
+  pages         = {4379-4401},
+  month         = {Nov},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.4379C},
+  archiveprefix = {arXiv},
+  doi           = {10.1093/mnras/sty2169},
+  eprint        = {1712.04452},
+  keywords      = {methods: statistical, galaxies: evolution, galaxies: star formation, Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics},
+  primaryclass  = {astro-ph.GA},
+}
+
+@Article{uth+19,
+  author        = {{Urata}, Yuji and {Toma}, Kenji and {Huang}, Kuiyun and {Asada}, Keiichi and {Nagai}, Hiroshi and {Takahashi}, Satoko and {Petitpas}, Glen and {Tashiro}, Makoto and {Yamaoka}, Kazutaka},
+  title         = {{First Detection of Radio Linear Polarization in a Gamma-Ray Burst Afterglow}},
+  journal       = {\apjl},
+  year          = {2019},
+  volume        = {884},
+  number        = {2},
+  pages         = {L58},
+  month         = {Oct},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2019ApJ...884L..58U},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/2041-8213/ab48f3},
+  eid           = {L58},
+  eprint        = {1904.08111},
+  keywords      = {acceleration of particles, gamma-ray burst: individual: GRB171205A, polarization, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
+
+@Article{lves+19,
+  author        = {{Laskar}, Tanmoy and {van Eerten}, Hendrik and {Schady}, Patricia and {Mundell}, C.~G. and {Alexander}, Kate D. and {Barniol Duran}, Rodolfo and {Berger}, Edo and {Bolmer}, J. and {Chornock}, Ryan and {Coppejans}, Deanne L. and {Fong}, Wen-fai and {Gomboc}, Andreja and {Jordana-Mitjans}, N{\'u}ria and {Kobayashi}, Shiho and {Margutti}, Raffaella and {Menten}, Karl M. and {Sari}, Re'em and {Yamazaki}, Ryo and {Lipunov}, V.~M. and {Gorbovskoy}, E. and {Kornilov}, V.~G. and {Tyurina}, N. and {Zimnukhov}, D. and {Podesta}, R. and {Levato}, H. and {Buckley}, D.~A.~H. and {Tlatov}, A. and {Rebolo}, R. and {Serra-Ricart}, M.},
+  title         = {{A Reverse Shock in GRB 181201A}},
+  journal       = {\apj},
+  year          = {2019},
+  volume        = {884},
+  number        = {2},
+  pages         = {121},
+  month         = {Oct},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2019ApJ...884..121L},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4357/ab40ce},
+  eid           = {121},
+  eprint        = {1907.13128},
+  keywords      = {Gamma-ray bursts, Astronomy data modeling, High energy astrophysics, Transient sources, Gamma-ray transient sources, Radio transient sources, X-ray transient sources, Markov chain Monte Carlo, Interstellar synchrotron emission, Shocks, Relativistic jets, Relativistic fluid dynamics, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
-
-@Comment{jabref-meta: fileDirectory:.;}
-
-@Comment{jabref-meta: fileDirectory-tanmoy-Artemis:.;}
