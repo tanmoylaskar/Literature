@@ -15230,23 +15230,21 @@
   Timestamp                = {2015.04.14}
 }
 
-@Article{2005ApJ...622..986T,
-  Title                    = {{Late-Time Observations of the Afterglow and Environment of GRB 030329}},
-  Author                   = {{Taylor}, G.~B. and {Momjian}, E. and {Pihlstr{\"o}m}, Y. and {Ghosh}, T. and {Salter}, C.},
-  Journal                  = {\apj},
-  Year                     = {2005},
-
-  Month                    = apr,
-  Pages                    = {986-990},
-  Volume                   = {622},
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {http://adsabs.harvard.edu/abs/2005ApJ...622..986T},
-  Doi                      = {10.1086/428346},
-  Eprint                   = {astro-ph/0412483},
-  Keywords                 = {Gamma Rays: Bursts},
-  Owner                    = {tanmoy},
-  Timestamp                = {2018.04.17}
+@Article{tmp+05,
+  author    = {{Taylor}, G.~B. and {Momjian}, E. and {Pihlstr{\"o}m}, Y. and {Ghosh}, T. and {Salter}, C.},
+  title     = {{Late-Time Observations of the Afterglow and Environment of GRB 030329}},
+  journal   = {\apj},
+  year      = {2005},
+  volume    = {622},
+  pages     = {986-990},
+  month     = apr,
+  adsnote   = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl    = {http://adsabs.harvard.edu/abs/2005ApJ...622..986T},
+  doi       = {10.1086/428346},
+  eprint    = {astro-ph/0412483},
+  keywords  = {Gamma Rays: Bursts},
+  owner     = {tanmoy},
+  timestamp = {2018.04.17},
 }
 
 @Article{tmn08,
@@ -17658,6 +17656,55 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System},
   adsurl  = {https://ui.adsabs.harvard.edu/abs/1965Sci...148.1458D},
   doi     = {10.1126/science.148.3676.1458},
+}
+
+@Article{qui92,
+  author  = {{Quirrenbach}, A.},
+  title   = {{Variability and VLBI Observations of Extragalactic Radio Surces.}},
+  journal = {Reviews in Modern Astronomy},
+  year    = {1992},
+  volume  = {5},
+  pages   = {214-228},
+  month   = {Jan},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl  = {https://ui.adsabs.harvard.edu/abs/1992RvMA....5..214Q},
+  doi     = {10.1007/978-3-642-77543-7_15},
+}
+
+@Article{vai06,
+  author        = {{Vaillancourt}, John E.},
+  title         = {{Placing Confidence Limits on Polarization Measurements}},
+  journal       = {\pasp},
+  year          = {2006},
+  volume        = {118},
+  number        = {847},
+  pages         = {1340-1343},
+  month         = {Sep},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2006PASP..118.1340V},
+  archiveprefix = {arXiv},
+  doi           = {10.1086/507472},
+  eprint        = {astro-ph/0603110},
+  keywords      = {Polarization, Astrophysics},
+  primaryclass  = {astro-ph},
+}
+
+@Article{tfk+98,
+  author        = {{Taylor}, G.~B. and {Frail}, D.~A. and {Kulkarni}, S.~R. and {Shepherd}, D.~S. and {Feroci}, M. and {Frontera}, F.},
+  title         = {{The Discovery of the Radio Afterglow from the Optically DIM Gamma-Ray Burst of 1998 March 29}},
+  journal       = {\apjl},
+  year          = {1998},
+  volume        = {502},
+  number        = {2},
+  pages         = {L115-L118},
+  month         = {Aug},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/1998ApJ...502L.115T},
+  archiveprefix = {arXiv},
+  doi           = {10.1086/311513},
+  eprint        = {astro-ph/9805333},
+  keywords      = {GAMMA RAYS: BURSTS, RADIO CONTINUUM: GENERAL, Gamma Rays: Bursts, Radio Continuum: General, Astrophysics},
+  primaryclass  = {astro-ph},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
