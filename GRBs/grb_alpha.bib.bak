@@ -1,5 +1,4 @@
-% This file was created with JabRef 2.10.
-% Encoding: ISO8859_1
+% Encoding: ISO-8859-1
 
 
 @Article{abn02,
@@ -8023,22 +8022,31 @@
   Timestamp                = {2015.04.14}
 }
 
-@Article{ksk+18,
-  Title                    = {{Four GRB-Supernovae at Redshifts between 0.4 and 0.8}},
-  Author                   = {{Klose}, S. and {Schmidl}, S. and {Kann}, D.~A. and {Nicuesa Guelbenzu}, A. and {Schulze}, S. and {Greiner}, J. and {Olivares}, F. and {Kruehler}, T. and {Schady}, P. and {Afonso}, P.~M.~J. and {Filgas}, R. and {Fynbo}, J.~P.~U. and {Perley}, D.~A. and {Rau}, A. and {Rossi}, A. and {Takats}, K. and {Tanga}, M. and {Updike}, A.~C. and {Varela}, K.},
-  Journal                  = {arXiv e-prints},
-  Year                     = {2018},
+@Article{ksk+19,
+  Title                    = {{Four GRB supernovae at redshifts between 0.4 and 0.8. The bursts GRB 071112C, 111228A, 120714B, and 130831A}},
+  Author                   = {{Klose}, S. and {Schmidl}, S. and {Kann}, D.~A. and
+ {Nicuesa Guelbenzu}, A. and {Schulze}, S. and {Greiner}, J. and
+ {Olivares E.}, F. and {Kr{\"u}hler}, T. and {Schady}, P. and
+ {Afonso}, P.~M.~J. and {Filgas}, R. and {Fynbo}, J.~P.~U. and
+ {Rau}, A. and {Rossi}, A. and {Takats}, K. and {Tanga}, M. and
+ {Updike}, A.~C. and {Varela}, K.},
+  Journal                  = {\aap},
+  Year                     = {2019},
 
-  Month                    = Aug,
-  Pages                    = {arXiv:1808.02710},
+  Month                    = {Feb},
+  Pages                    = {A138},
+  Volume                   = {622},
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/\#abs/2018arXiv180802710K},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019A&A...622A.138K},
   Archiveprefix            = {arXiv},
-  Eid                      = {arXiv:1808.02710},
+  Doi                      = {10.1051/0004-6361/201832728},
+  Eid                      = {A138},
   Eprint                   = {1808.02710},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
-  Primaryclass             = {astro-ph.HE}
+  Keywords                 = {gamma-ray burst: individual: GRB 071112C, gamma-ray burst: individual: GRB 111228A, supernovae: individual: SN 2013fu, gamma-ray burst: individual: GRB 130831A, supernovae: individual: SN 2012eb, gamma-ray burst: individual: GRB 120714B, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.01.27}
 }
 
 @Article{kbag09,
@@ -17858,5 +17866,23 @@
   Timestamp                = {2013.05.05}
 }
 
-@comment{jabref-meta: databaseType:bibtex;}
+@Article{wzx+18,
+  author        = {{Wang}, J. and {Zhu}, Z.~P. and {Xu}, D. and {Xin}, L.~P. and {Deng}, J.~S. and {Qiu}, Y.~L. and {Qiu}, P. and {Wang}, H.~J. and {Zhang}, J.~B. and {Wei}, J.~Y.},
+  title         = {{Spectroscopy of the Type Ic Supernova SN 2017iuk Associated with Low-redshift GRB 171205A}},
+  journal       = {\apj},
+  year          = {2018},
+  volume        = {867},
+  number        = {2},
+  pages         = {147},
+  month         = {Nov},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2018ApJ...867..147W},
+  archiveprefix = {arXiv},
+  doi           = {10.3847/1538-4357/aae6c3},
+  eid           = {147},
+  eprint        = {1810.03250},
+  keywords      = {gamma-ray burst: individual: GRB 171205A, methods: observational, supernovae: individual: SN 2017iuk, techniques: spectroscopic, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.HE},
+}
 
+@Comment{jabref-meta: databaseType:bibtex;}
