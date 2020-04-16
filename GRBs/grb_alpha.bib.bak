@@ -7653,26 +7653,31 @@
   Timestamp                = {2010.12.24}
 }
 
-@Article{jmk+19,
-  Title                    = {{Lowly polarized light from a highly magnetized jet of GRB 190114C}},
+@Article{jmk+20,
+  Title                    = {{Lowly Polarized Light from a Highly Magnetized Jet of GRB 190114C}},
   Author                   = {{Jordana-Mitjans}, N. and {Mundell}, C.~G. and {Kobayashi}, S. and
  {Smith}, R.~J. and {Guidorzi}, C. and {Steele}, I.~A. and
- {Shrestha}, M. and {Gomboc}, A. and {Marongiu}, M. and {Martone}, R.},
-  Journal                  = {arXiv e-prints},
-  Year                     = {2019},
+ {Shrestha}, M. and {Gomboc}, A. and {Marongiu}, M. and {Martone}, R. and
+ {Lipunov}, V. and {Gorbovskoy}, E.~S. and {Buckley}, D.~A.~H. and
+ {Rebolo}, R. and {Budnev}, N.~M.},
+  Journal                  = {\apj},
+  Year                     = {2020},
 
-  Month                    = nov,
-  Pages                    = {arXiv:1911.08499},
+  Month                    = apr,
+  Number                   = {2},
+  Pages                    = {97},
+  Volume                   = {892},
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019arXiv191108499J},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020ApJ...892...97J},
   Archiveprefix            = {arXiv},
-  Eid                      = {arXiv:1911.08499},
+  Doi                      = {10.3847/1538-4357/ab7248},
+  Eid                      = {97},
   Eprint                   = {1911.08499},
   Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2020.03.25}
+  Timestamp                = {2020.04.12}
 }
 
 @Article{jgc+05,
