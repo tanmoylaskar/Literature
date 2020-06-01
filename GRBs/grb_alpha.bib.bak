@@ -6915,6 +6915,31 @@
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2005.09969.x/full}
 }
 
+@Article{hwc+19,
+  Title                    = {{SPLOT: a snapshot survey for polarized light in optical transients}},
+  Author                   = {{Higgins}, A.~B. and {Wiersema}, K. and {Covino}, S. and
+ {Starling}, R.~L.~C. and {Stevance}, H.~F. and {Wyrzykowski}, {\L}. and
+ {Hodgkin}, S.~T. and {Maund}, J.~R. and {O'Brien}, P.~T. and
+ {Tanvir}, N.~R.},
+  Journal                  = {\mnras},
+  Year                     = {2019},
+
+  Month                    = feb,
+  Number                   = {4},
+  Pages                    = {5023-5040},
+  Volume                   = {482},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.5023H},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/sty3029},
+  Eprint                   = {1811.01756},
+  Keywords                 = {polarization, supernovae: general, galaxies: active, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.04.16}
+}
+
 @Article{hmg+03,
   Title                    = {Very High Column Density and Small Reddening toward GRB 020124 at z=3.20},
   Author                   = {Hjorth, J. and M\oller, P. and Gorosabel, J. and Fynbo, J.~P.~U. and Toft, S. and Jaunsen, A.~O. and Kaas, A.~A. and Pursimo, T. and Torii, K. and Kato, T. and Yamaoka, H. and Yoshida, A. and Thomsen, B. and Andersen, M.~I. and Burud, I. and Castro Cer{\'o}n, J.~M. and Castro-Tirado, A.~J. and Fruchter, A.~S. and Kaper, L. and Kouveliotou, C. and Masetti, N. and Palazzi, E. and Pedersen, H. and Pian, E. and Rhoads, J. and Rol, E. and Tanvir, N.~R. and Vreeswijk, P.~M. and Wijers, R.~A.~M.~J. and van den Heuvel, E.~P.~J.},
@@ -8512,6 +8537,34 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2016.06.23}
+}
+
+@Article{kgr+13,
+  Title                    = {{NuSTAR Observations of GRB 130427A Establish a Single Component Synchrotron Afterglow Origin for the Late Optical to Multi-GeV Emission}},
+  Author                   = {{Kouveliotou}, C. and {Granot}, J. and {Racusin}, J.~L. and {Bellm}, E. and
+ {Vianello}, G. and {Oates}, S. and {Fryer}, C.~L. and {Boggs}, S.~E. and
+ {Christensen}, F.~E. and {Craig}, W.~W. and {Dermer}, C.~D. and
+ {Gehrels}, N. and {Hailey}, C.~J. and {Harrison}, F.~A. and {Meland
+ ri}, A. and {McEnery}, J.~E. and {Mundell}, C.~G. and {Stern}, D.~K. and
+ {Tagliaferri}, G. and {Zhang}, W.~W.},
+  Journal                  = {\apjl},
+  Year                     = {2013},
+
+  Month                    = dec,
+  Number                   = {1},
+  Pages                    = {L1},
+  Volume                   = {779},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2013ApJ...779L...1K},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/2041-8205/779/1/L1},
+  Eid                      = {L1},
+  Eprint                   = {1311.5245},
+  Keywords                 = {acceleration of particles, gamma-ray burst: individual: GRB 130427A, magnetic fields, radiation mechanisms: non-thermal, shock waves, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.05.19}
 }
 
 @Article{kmf+93,
@@ -11025,6 +11078,28 @@
   Eprint                   = {0810.2206},
   Keywords                 = {BL Lacertae objects: general, galaxies: quasars: general, catalogs, Astrophysics},
   Primaryclass             = {astro-ph}
+}
+
+@Article{mzz11,
+  Title                    = {{Is GeV emission from Gamma-Ray Bursts of external shock origin?}},
+  Author                   = {{Maxham}, Amanda and {Zhang}, Bin-Bin and {Zhang}, Bing},
+  Journal                  = {\mnras},
+  Year                     = {2011},
+
+  Month                    = jul,
+  Number                   = {1},
+  Pages                    = {77-82},
+  Volume                   = {415},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415...77M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.18648.x},
+  Eprint                   = {1101.0144},
+  Keywords                 = {shock waves, gamma-ray burst: general, gamma-ray burst: individual: 080916C, gamma-ray burst: individual: 090510, gamma-ray burst: individual: 090902B, gamma-ray burst: individual: 090926A, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.05.19}
 }
 
 @Article{mtl+16,
