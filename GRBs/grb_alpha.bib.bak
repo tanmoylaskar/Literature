@@ -12713,6 +12713,29 @@
   Timestamp                = {2014.08.02}
 }
 
+@Article{pmb+06,
+  Title                    = {{Evidence for chromatic X-ray light-curve breaks in Swift gamma-ray burst afterglows and their theoretical implications}},
+  Author                   = {{Panaitescu}, A. and {M{\'e}sz{\'a}ros}, P. and {Burrows}, D. and
+ {Nousek}, J. and {Gehrels}, N. and {O'Brien}, P. and {Willingale}, R.},
+  Journal                  = {\mnras},
+  Year                     = {2006},
+
+  Month                    = jul,
+  Number                   = {4},
+  Pages                    = {2059-2064},
+  Volume                   = {369},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2006MNRAS.369.2059P},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2006.10453.x},
+  Eprint                   = {astro-ph/0604105},
+  Keywords                 = {radiation mechanisms: non-thermal: shock waves: ISM: jets and outflows: gamma-rays: bursts, radiation mechanisms: non-thermal, shock waves, ISM: jets and outflows, gamma-rays: bursts, Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph},
+  Timestamp                = {2020.05.19}
+}
+
 @Article{pmg+06,
   Title                    = {Analysis of the X-ray emission of nine Swift afterglows},
   Author                   = {Panaitescu, A. and M{\'e}sz{\'a}ros, P. and Gehrels, N. and Burrows, D. and Nousek, J.},
