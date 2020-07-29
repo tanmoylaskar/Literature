@@ -9269,6 +9269,29 @@
   Timestamp                = {2018.01.19}
 }
 
+@Article{lhc20,
+  Title                    = {{Radio Linear Polarization of GRB Afterglows: Instrumental Systematics in ALMA Observations of GRB 171205A}},
+  Author                   = {{Laskar}, Tanmoy and {Hull}, Charles L.~H. and {Cortes}, Paulo},
+  Journal                  = {\apj},
+  Year                     = {2020},
+
+  Month                    = may,
+  Number                   = {1},
+  Pages                    = {64},
+  Volume                   = {895},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020ApJ...895...64L},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/ab88cc},
+  Eid                      = {64},
+  Eprint                   = {2004.06730},
+  Keywords                 = {Polarimetry, Gamma-ray bursts, Millimeter astronomy, Radio astronomy, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.06.01}
+}
+
 @Article{lsvs09,
   Title                    = {{The Metallicity of the HD 98800 System}},
   Author                   = {{Laskar}, T. and {Soderblom}, D.~R. and {Valenti}, J.~A. and {Stauffer}, J.~R.},
@@ -17733,6 +17756,30 @@
   Eprint                   = {1308.6095},
   Keywords                 = {gamma-ray burst: general, radiation mechanisms: non-thermal, Astrophysics - High Energy Astrophysical Phenomena},
   Primaryclass             = {astro-ph.HE}
+}
+
+@Article{yxy+16,
+  Title                    = {{Comprehensive Study of the X-Ray Flares from Gamma-ray Bursts Observed by Swift}},
+  Author                   = {{Yi}, Shuang-Xi and {Xi}, Shao-Qiang and {Yu}, Hai and {Wang}, F.~Y. and
+ {Mu}, Hui-Jun and {L{\"u}}, Lian-Zhong and {Liang}, En-Wei},
+  Journal                  = {\apjs},
+  Year                     = {2016},
+
+  Month                    = jun,
+  Number                   = {2},
+  Pages                    = {20},
+  Volume                   = {224},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2016ApJS..224...20Y},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/0067-0049/224/2/20},
+  Eid                      = {20},
+  Eprint                   = {1603.07429},
+  Keywords                 = {gamma rays: general, radiation mechanisms: non-thermal, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.06.26}
 }
 
 @Article{yt17,
