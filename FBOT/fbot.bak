@@ -1,0 +1,37 @@
+% This file was created with JabRef 2.10.
+% Encoding: ISO8859_1
+
+
+@Article{cmt+20,
+  Title                    = {{A Mildly Relativistic Outflow from the Energetic, Fast-rising Blue Optical Transient CSS161010 in a Dwarf Galaxy}},
+  Author                   = {{Coppejans}, D.~L. and {Margutti}, R. and {Terreran}, G. and
+ {Nayana}, A.~J. and {Coughlin}, E.~R. and {Laskar}, T. and {Alexand
+ er}, K.~D. and {Bietenholz}, M. and {Caprioli}, D. and {Chandra}, P. and
+ {Drout}, M.~R. and {Frederiks}, D. and {Frohmaier}, C. and
+ {Hurley}, K.~H. and {Kochanek}, C.~S. and {MacLeod}, M. and
+ {Meisner}, A. and {Nugent}, P.~E. and {Ridnaia}, A. and {Sand}, D.~J. and
+ {Svinkin}, D. and {Ward}, C. and {Yang}, S. and {Baldeschi}, A. and
+ {Chilingarian}, I.~V. and {Dong}, Y. and {Esquivia}, C. and {Fong}, W. and
+ {Guidorzi}, C. and {Lundqvist}, P. and {Milisavljevic}, D. and
+ {Paterson}, K. and {Reichart}, D.~E. and {Shappee}, B. and
+ {Stroh}, M.~C. and {Valenti}, S. and {Zauderer}, B.~A. and {Zhang}, B.},
+  Journal                  = {\apjl},
+  Year                     = {2020},
+
+  Month                    = may,
+  Number                   = {1},
+  Pages                    = {L23},
+  Volume                   = {895},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020ApJ...895L..23C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/2041-8213/ab8cc7},
+  Eid                      = {L23},
+  Eprint                   = {2003.10503},
+  Keywords                 = {Supernovae, Accretion, Black holes, X-ray transient sources, Radio transient sources, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.08.30}
+}
+
