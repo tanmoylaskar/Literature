@@ -534,6 +534,29 @@
   Timestamp                = {2013.05.10}
 }
 
+@Article{aved20,
+  Title                    = {{Late X-ray flares from the interaction of a reverse shock with a stratified ejecta in GRB afterglows: simulations on a moving mesh}},
+  Author                   = {{Ayache}, Eliot H. and {van Eerten}, Hendrik J. and
+ {Daigne}, Fr{\'e}d{\'e}ric},
+  Journal                  = {\mnras},
+  Year                     = {2020},
+
+  Month                    = may,
+  Number                   = {3},
+  Pages                    = {2979-2993},
+  Volume                   = {495},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.2979A},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/staa1397},
+  Eprint                   = {2004.04179},
+  Keywords                 = {hydrodynamics, radiation mechanisms: non-thermal, shock waves, gamma-ray bursts, software: simulations, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.08.30}
+}
+
 @Article{bgd08,
   Title                    = {On the galaxy stellar mass function, the mass-metallicity relation and the implied baryonic mass function},
   Author                   = {Baldry, I.~K. and Glazebrook, K. and Driver, S.~P.},
@@ -11262,6 +11285,33 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2020.05.19}
+}
+
+@Article{mkr+10,
+  Title                    = {{Optical and near-infrared follow-up observations of four Fermi/LAT GRBs: redshifts, afterglows, energetics, and host galaxies}},
+  Author                   = {{McBreen}, S. and {Kr{\"u}hler}, T. and {Rau}, A. and {Greiner}, J. and
+ {Kann}, D.~A. and {Savaglio}, S. and {Afonso}, P. and {Clemens}, C. and
+ {Filgas}, R. and {Klose}, S. and
+ {K{\"u}pc{\"u} Yolda{\textcommabelow s}}, A. and {Olivares E.}, F. and
+ {Rossi}, A. and {Szokoly}, G.~P. and {Updike}, A. and
+ {Yolda{\textcommabelow s}}, A.},
+  Journal                  = {\aap},
+  Year                     = {2010},
+
+  Month                    = jun,
+  Pages                    = {A71},
+  Volume                   = {516},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2010A&A...516A..71M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361/200913734},
+  Eid                      = {A71},
+  Eprint                   = {1003.3885},
+  Keywords                 = {gamma-ray burst: individual: GRB 090323, gamma-ray burst: individual: GRB 090328, gamma-ray burst: individual: GRB 090510, gamma-ray burst: individual: GRB 090902B, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2020.09.12}
 }
 
 @Article{mtl+16,
