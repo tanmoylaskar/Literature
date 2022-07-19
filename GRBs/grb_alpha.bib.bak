@@ -121,6 +121,29 @@
   Primaryclass             = {astro-ph.CO}
 }
 
+@Article{aaa+20,
+  Title                    = {{Fermi and Swift Observations of GRB 190114C: Tracing the Evolution of High-energy Emission from Prompt to Afterglow}},
+  Author                   = {{Ajello}, M. and {Arimoto}, M. and {Axelsson}, M. and {Baldini}, L. and {Barbiellini}, G. and {Bastieri}, D. and {Bellazzini}, R. and {Berretta}, A. and {Bissaldi}, E. and {Blandford}, R.~D. and {Bonino}, R. and {Bottacini}, E. and {Bregeon}, J. and {Bruel}, P. and {Buehler}, R. and {Burns}, E. and {Buson}, S. and {Cameron}, R.~A. and {Caputo}, R. and {Caraveo}, P.~A. and {Cavazzuti}, E. and {Chen}, S. and {Chiaro}, G. and {Ciprini}, S. and {Cohen-Tanugi}, J. and {Costantin}, D. and {Cutini}, S. and {D'Ammando}, F. and {DeKlotz}, M. and {de la Torre Luque}, P. and {de Palma}, F. and {Desai}, A. and {Di Lalla}, N. and {Di Venere}, L. and {Fana Dirirsa}, F. and {Fegan}, S.~J. and {Franckowiak}, A. and {Fukazawa}, Y. and {Funk}, S. and {Fusco}, P. and {Gargano}, F. and {Gasparrini}, D. and {Giglietto}, N. and {Gill}, R. and {Giordano}, F. and {Giroletti}, M. and {Granot}, J. and {Green}, D. and {Grenier}, I.~A. and {Grondin}, M. -H. and {Guiriec}, S. and {Hays}, E. and {Horan}, D. and {J{\'o}hannesson}, G. and {Kocevski}, D. and {Kovac'evic'}, M. and {Kuss}, M. and {Larsson}, S. and {Latronico}, L. and {Lemoine-Goumard}, M. and {Li}, J. and {Liodakis}, I. and {Longo}, F. and {Loparco}, F. and {Lovellette}, M.~N. and {Lubrano}, P. and {Maldera}, S. and {Malyshev}, D. and {Manfreda}, A. and {Mart{\'\i}-Devesa}, G. and {Mazziotta}, M.~N. and {McEnery}, J.~E. and {Mereu}, I. and {Meyer}, M. and {Michelson}, P.~F. and {Mitthumsiri}, W. and {Mizuno}, T. and {Monzani}, M.~E. and {Moretti}, E. and {Morselli}, A. and {Moskalenko}, I.~V. and {Negro}, M. and {Nuss}, E. and {Omodei}, N. and {Orienti}, M. and {Orlando}, E. and {Palatiello}, M. and {Paliya}, V.~S. and {Paneque}, D. and {Pei}, Z. and {Persic}, M. and {Pesce-Rollins}, M. and {Petrosian}, V. and {Piron}, F. and {Poon}, H. and {Porter}, T.~A. and {Principe}, G. and {Racusin}, J.~L. and {Rain{\`o}}, S. and {Rando}, R. and {Rani}, B. and {Razzano}, M. and {Razzaque}, S. and {Reimer}, A. and {Reimer}, O. and {Ryde}, F. and {Saz Parkinson}, P.~M. and {Serini}, D. and {Sgr{\`o}}, C. and {Siskind}, E.~J. and {Spandre}, G. and {Spinelli}, P. and {Tajima}, H. and {Takagi}, K. and {Takahashi}, M.~N. and {Tak}, D. and {Thayer}, J.~B. and {Thompson}, D.~J. and {Torres}, D.~F. and {Troja}, E. and {Valverde}, J. and {Van Klaveren}, B. and {Wood}, K. and {Yassine}, M. and {Zaharijas}, G. and {Mailyan}, B. and {Bhat}, P.~N. and {Briggs}, M.~S. and {Cleveland}, W. and {Giles}, M. and {Goldstein}, A. and {Hui}, M. and {Malacaria}, Christian and {Preece}, R. and {Roberts}, O.~J. and {Veres}, P. and {Wilson-Hodge}, C. and {Kienlin}, A. von and {Cenko}, S.~B. and {O'Brien}, P. and {Beardmore}, A.~P. and {Lien}, A. and {Osborne}, J.~P. and {Tohuvavohu}, A. and {D'Elia}, V. and {D'A{\`\i}}, A. and {Perri}, M. and {Gropp}, J. and {Klingler}, N. and {Capalbi}, M. and {Tagliaferri}, G. and {Stamatikos}, M. and {De Pasquale}, M.},
+  Journal                  = {\apj},
+  Year                     = {2020},
+
+  Month                    = feb,
+  Number                   = {1},
+  Pages                    = {9},
+  Volume                   = {890},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020ApJ...890....9A},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/ab5b05},
+  Eid                      = {9},
+  Eprint                   = {1909.10605},
+  Keywords                 = {629, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.07.31}
+}
+
 @Article{abb+99,
   Title                    = {Observation of contemporaneous optical radiation from a $\gamma$-ray burst},
   Author                   = {Akerlof, C. and Balsano, R. and Barthelmy, S. and Bloch, J. and Butterworth, P. and Casperson, D. and Cline, T. and Fletcher, S. and Frontera, F. and Gisler, G. and Heise, J. and Hills, J. and Kehoe, R. and Lee, B. and Marshall, S. and McKay, T. and Miller, R. and Piro, L. and Priedhorsky, W. and Szymanski, J. and Wren, J.},
@@ -943,6 +966,27 @@
   Timestamp                = {2017.10.14}
 }
 
+@Article{ber14,
+  Title                    = {{Short-Duration Gamma-Ray Bursts}},
+  Author                   = {{Berger}, Edo},
+  Journal                  = {\araa},
+  Year                     = {2014},
+
+  Month                    = aug,
+  Pages                    = {43-105},
+  Volume                   = {52},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2014ARA&A..52...43B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1146/annurev-astro-081913-035926},
+  Eprint                   = {1311.2603},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.04.01}
+}
+
 @Article{ber11,
   Title                    = {The environments of short-duration gamma-ray bursts and implications for their progenitors},
   Author                   = {Berger, E.},
@@ -1272,6 +1316,29 @@
   Keywords                 = {galaxies: high-redshift, gamma-ray burst: individual: GRB 090423, radio continuum: galaxies},
   Owner                    = {tanmoy},
   Timestamp                = {2018.04.11}
+}
+
+@Article{bzl+13,
+  Title                    = {{The Afterglow and ULIRG Host Galaxy of the Dark Short GRB 120804A}},
+  Author                   = {{Berger}, E. and {Zauderer}, B.~A. and {Levan}, A. and {Margutti}, R. and {Laskar}, T. and {Fong}, W. and {Mangano}, V. and {Fox}, D.~B. and {Tunnicliffe}, R.~L. and {Chornock}, R. and {Tanvir}, N.~R. and {Menten}, K.~M. and {Hjorth}, J. and {Roth}, K. and {Dupuy}, T.~J.},
+  Journal                  = {\apj},
+  Year                     = {2013},
+
+  Month                    = mar,
+  Number                   = {2},
+  Pages                    = {121},
+  Volume                   = {765},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2013ApJ...765..121B},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/765/2/121},
+  Eid                      = {121},
+  Eprint                   = {1209.5423},
+  Keywords                 = {gamma-ray burst: general, gamma-ray burst: individual: GRB120804A, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.03.30}
 }
 
 @Article{bmc+11,
@@ -1968,6 +2035,28 @@
   Timestamp                = {2017.07.24}
 }
 
+@Article{clp+21,
+  Title                    = {{The variable absorption in the X-ray spectrum of GRB 190114C}},
+  Author                   = {{Campana}, Sergio and {Lazzati}, Davide and {Perna}, Rosalba and {Grazia Bernardini}, Maria and {Nava}, Lara},
+  Journal                  = {\aap},
+  Year                     = {2021},
+
+  Month                    = may,
+  Pages                    = {A135},
+  Volume                   = {649},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2021A&A...649A.135C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361/202140439},
+  Eid                      = {A135},
+  Eprint                   = {2103.05735},
+  Keywords                 = {gamma-ray burst: general, gamma-ray burst: individual: GRB190114C, dust, extinction, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.07.31}
+}
+
 @Article{can14,
   Title                    = {{Gamma-Ray Burst Supernovae as Standardizable Candles}},
   Author                   = {{Cano}, Z.},
@@ -2252,6 +2341,28 @@
   Keywords                 = {gamma rays: bursts, techniques: photometric, techniques: spectroscopic, X-rays: general, cosmology: observations},
   Owner                    = {tanmoy},
   Timestamp                = {2011.05.08}
+}
+
+@Article{cdupg+05,
+  Title                    = {GRB 050509B: the elusive optical/nIR/mm afterglow of a short-duration GRB},
+  Author                   = {{Castro-Tirado}, A.~J. and {de Ugarte Postigo}, A. and {Gorosabel}, J. and {Fathkullin}, T. and {Sokolov}, V. and {Bremer}, M. and {M{\'a}rquez}, I. and {Mar{\'\i}n}, A.~J. and {Guziy}, S. and {Jel{\'\i}nek}, M. and {Kub{\'a}nek}, P. and {Hudec}, R. and {Vitek}, S. and {Mateo Sanguino}, T.~J. and {Eigenbrod}, A. and {P{\'e}rez-Ram{\'\i}rez}, M.~D. and {Sota}, A. and {Masegosa}, J. and {Prada}, F. and {Moles}, M.},
+  Journal                  = {\aap},
+  Year                     = {2005},
+
+  Month                    = aug,
+  Number                   = {2},
+  Pages                    = {L15-L18},
+  Volume                   = {439},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2005A&A...439L..15C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361:200500147},
+  Eprint                   = {astro-ph/0506662},
+  Keywords                 = {gamma rays: bursts, techniques: photometric, cosmology: observations, Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph},
+  Timestamp                = {2022.04.09}
 }
 
 @Article{cse+13,
@@ -3295,6 +3406,28 @@
   Keywords                 = {X-rays: bursts, gamma rays: bursts, radiation mechanisms: non-thermal},
   Owner                    = {tanmoy},
   Timestamp                = {2016.05.12}
+}
+
+@Article{cvdhw08,
+  Title                    = {{Are the missing X-ray breaks in gamma-ray burst afterglow light curves merely hidden?}},
+  Author                   = {{Curran}, P.~A. and {van der Horst}, A.~J. and {Wijers}, R.~A.~M.~J.},
+  Journal                  = {\mnras},
+  Year                     = {2008},
+
+  Month                    = may,
+  Number                   = {2},
+  Pages                    = {859-863},
+  Volume                   = {386},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2008MNRAS.386..859C},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2008.13043.x},
+  Eprint                   = {0710.5285},
+  Keywords                 = {radiation mechanisms: non-thermal, methods: analytical, methods: statistical, gamma rays: bursts, X-rays: bursts, Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph},
+  Timestamp                = {2022.01.21}
 }
 
 @Article{cwh+08,
@@ -4470,6 +4603,29 @@
   Timestamp                = {2015.04.07}
 }
 
+@Article{fdrp+19,
+  Title                    = {{Spectral Analysis of Fermi-LAT Gamma-Ray Bursts with Known Redshift and their Potential Use as Cosmological Standard Candles}},
+  Author                   = {{Fana Dirirsa}, F. and {Razzaque}, S. and {Piron}, F. and {Arimoto}, M. and {Axelsson}, M. and {Kocevski}, D. and {Longo}, F. and {Ohno}, M. and {Zhu}, S.},
+  Journal                  = {\apj},
+  Year                     = {2019},
+
+  Month                    = dec,
+  Number                   = {1},
+  Pages                    = {13},
+  Volume                   = {887},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019ApJ...887...13F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/ab4e11},
+  Eid                      = {13},
+  Eprint                   = {1910.07009},
+  Keywords                 = {Gamma-ray bursts, Cosmology, Astronomical radiation sources, Cosmological parameters, 629, 343, 89, 339, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Cosmology and Nongalactic Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.07.31}
+}
+
 @Article{fha+04,
   Title                    = {The Infrared Array Camera (IRAC) for the Spitzer Space Telescope},
   Author                   = {Fazio, G.~G. and Hora, J.~L. and Allen, L.~E. and Ashby, M.~L.~N. and Barmby, P. and Deutsch, L.~K. and Huang, J.-S. and Kleiner, S. and Marengo, M. and Megeath, S.~T. and Melnick, G.~J. and Pahre, M.~A. and Patten, B.~M. and Polizotti, J. and Smith, H.~A. and Taylor, R.~S. and Wang, Z. and Willner, S.~P. and Hoffmann, W.~F. and Pipher, J.~L. and Forrest, W.~J. and McMurty, C.~W. and McCreight, C.~R. and McKelvey, M.~E. and McMurray, R.~E. and Koch, D.~G. and Moseley, S.~H. and Arendt, R.~G. and Mentzell, J.~E. and Marx, C.~T. and Losch, P. and Mayman, P. and Eichhorn, W. and Krebs, D. and Jhabvala, M. and Gezari, D.~Y. and Fixsen, D.~J. and Flores, J. and Shakoorzadeh, K. and Jungo, R. and Hakun, C. and Workman, L. and Karpati, G. and Kichak, R. and Whitley, R. and Mann, S. and Tollestrup, E.~V. and Eisenhardt, P. and Stern, D. and Gorjian, V. and Bhattacharya, B. and Carey, S. and Nelson, B.~O. and Glaccum, W.~J. and Lacy, M. and Lowrance, P.~J. and Laine, S. and Reach, W.~T. and Stauffer, J.~A. and Surace, J.~A. and Wilson, G. and Wright, E.~L. and Hoffman, A. and Domingo, G. and Cohen, M.},
@@ -4842,6 +4998,48 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2015.04.14}
+}
+
+@Article{flr+21,
+  Title                    = {{The Broadband Counterpart of the Short GRB 200522A at z = 0.5536: A Luminous Kilonova or a Collimated Outflow with a Reverse Shock?}},
+  Author                   = {{Fong}, W. and {Laskar}, T. and {Rastinejad}, J. and {Escorial}, A. Rouco and {Schroeder}, G. and {Barnes}, J. and {Kilpatrick}, C.~D. and {Paterson}, K. and {Berger}, E. and {Metzger}, B.~D. and {Dong}, Y. and {Nugent}, A.~E. and {Strausbaugh}, R. and {Blanchard}, P.~K. and {Goyal}, A. and {Cucchiara}, A. and {Terreran}, G. and {Alexander}, K.~D. and {Eftekhari}, T. and {Fryer}, C. and {Margalit}, B. and {Margutti}, R. and {Nicholl}, M.},
+  Journal                  = {\apj},
+  Year                     = {2021},
+
+  Month                    = jan,
+  Number                   = {2},
+  Pages                    = {127},
+  Volume                   = {906},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2021ApJ...906..127F},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/abc74a},
+  Eid                      = {127},
+  Eprint                   = {2008.08593},
+  Keywords                 = {Gamma-ray bursts, Magnetars, R-process, 629, 992, 1324, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.03.30}
+}
+
+@Article{fnd+22,
+  Title                    = {{Short GRB Host Galaxies I: Photometric and Spectroscopic Catalogs, Host Associations, and Galactocentric Offsets}},
+  Author                   = {{Fong}, Wen-fai and {Nugent}, Anya E. and {Dong}, Yuxin and {Berger}, Edo and {Paterson}, Kerry and {Chornock}, Ryan and {Levan}, Andrew and {Blanchard}, Peter and {Alexander}, Kate D. and {Andrews}, Jennifer and {Cobb}, Bethany E. and {Cucchiara}, Antonino and {Fox}, Derek and {Fryer}, Chris L. and {Gordon}, Alexa C. and {Kilpatrick}, Charles D. and {Lunnan}, Ragnhild and {Margutti}, Raffaella and {Miller}, Adam and {Milne}, Peter and {Nicholl}, Matt and {Perley}, Daniel and {Rastinejad}, Jillian and {Rouco Escorial}, Alicia and {Schroeder}, Genevieve and {Smith}, Nathan and {Tanvir}, Nial and {Terreran}, Giacomo},
+  Year                     = {2022},
+
+  Month                    = jun,
+  Pages                    = {arXiv:2206.01763},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2022arXiv220601763F},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:2206.01763},
+  Eprint                   = {2206.01763},
+  Keywords                 = {Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.GA},
+  Timestamp                = {2022.06.15}
 }
 
 @Article{fhlg13,
@@ -5711,6 +5909,28 @@
   Timestamp                = {2020.08.01}
 }
 
+@Article{gng+09,
+  Title                    = {{Short versus long gamma-ray bursts: spectra, energetics, and luminosities}},
+  Author                   = {{Ghirlanda}, G. and {Nava}, L. and {Ghisellini}, G. and {Celotti}, A. and {Firmani}, C.},
+  Journal                  = {\aap},
+  Year                     = {2009},
+
+  Month                    = mar,
+  Number                   = {3},
+  Pages                    = {585-595},
+  Volume                   = {496},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2009A&A...496..585G},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361/200811209},
+  Eprint                   = {0902.0983},
+  Keywords                 = {gamma ray: bursts, stars: neutron, radiation mechanisms: thermal, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.15}
+}
+
 @Article{gngf07,
   Title                    = {Confirming the $\gamma$-ray burst spectral-energy correlations in the era of multiple time breaks},
   Author                   = {Ghirlanda, G. and Nava, L. and Ghisellini, G. and Firmani, C. },
@@ -5903,6 +6123,26 @@
   Keywords                 = {gamma ray: bursts, astrometry},
   Owner                    = {tanmoy},
   Timestamp                = {2012.09.25}
+}
+
+@Article{ghw+19,
+  Title                    = {{Updates to the Fermi GBM Targeted Sub-threshold Search in Preparation for the Third Observing Run of LIGO/Virgo}},
+  Author                   = {{Goldstein}, Adam and {Hamburg}, Rachel and {Wood}, Joshua and {Hui}, C. Michelle and {Cleveland}, William H. and {Kocevski}, Daniel and {Littenberg}, Tyson and {Burns}, Eric and {Dal Canton}, Tito and {Veres}, Peter and {Mailyan}, Bagrat and {Malacaria}, Christian and {Briggs}, Michael S. and {Wilson-Hodge}, Colleen A.},
+  Journal                  = {arXiv e-prints},
+  Year                     = {2019},
+
+  Month                    = mar,
+  Pages                    = {arXiv:1903.12597},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019arXiv190312597G},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:1903.12597},
+  Eprint                   = {1903.12597},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.11.15}
 }
 
 @Article{gkg+08,
@@ -7144,6 +7384,29 @@
   Timestamp                = {2013.07.20}
 }
 
+@Article{hps+20,
+  Title                    = {{Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for Their Progenitors}},
+  Author                   = {{Heintz}, Kasper E. and {Prochaska}, J. Xavier and {Simha}, Sunil and {Platts}, Emma and {Fong}, Wen-fai and {Tejos}, Nicolas and {Ryder}, Stuart D. and {Aggerwal}, Kshitij and {Bhandari}, Shivani and {Day}, Cherie K. and {Deller}, Adam T. and {Kilpatrick}, Charles D. and {Law}, Casey J. and {Macquart}, Jean-Pierre and {Mannings}, Alexandra and {Marnoch}, Lachlan J. and {Sadler}, Elaine M. and {Shannon}, Ryan M.},
+  Journal                  = {\apj},
+  Year                     = {2020},
+
+  Month                    = nov,
+  Number                   = {2},
+  Pages                    = {152},
+  Volume                   = {903},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020ApJ...903..152H},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/abb6fb},
+  Eid                      = {152},
+  Eprint                   = {2009.10747},
+  Keywords                 = {Galaxies, Interstellar medium, Star formation, Extragalactic radio sources, Radio bursts, Magnetars, 573, 847, 1569, 508, 1339, 992, Astrophysics - Astrophysics of Galaxies},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.GA},
+  Timestamp                = {2022.06.15}
+}
+
 @Book{hel05,
   Title                    = {Nondetects and data analysis: statistics for censored environmental data},
   Author                   = {Helsel, D.R.},
@@ -7715,25 +7978,27 @@
   Primaryclass             = {astro-ph.CO}
 }
 
-@Article{2020arXiv200704418J,
-  Title                    = {{Modeling Synchrotron Self-Compton and Klein-Nishina Effects in Gamma-Ray Burst Afterglows}},
-  Author                   = {{Jacovich}, Taylor and {Beniamini}, Paz and {van der Horst}, Alexander},
-  Journal                  = {arXiv e-prints},
-  Year                     = {2020},
+@Article{jbvdh21,
+  Title                    = {{Modelling synchrotron self-Compton and Klein-Nishina effects in gamma-ray burst afterglows}},
+  Author                   = {{Jacovich}, Taylor E. and {Beniamini}, Paz and {van der Horst}, Alexander J.},
+  Journal                  = {\mnras},
+  Year                     = {2021},
 
-  Month                    = jul,
-  Pages                    = {arXiv:2007.04418},
+  Month                    = jun,
+  Number                   = {1},
+  Pages                    = {528-542},
+  Volume                   = {504},
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020arXiv200704418J},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2021MNRAS.504..528J},
   Archiveprefix            = {arXiv},
-  Eid                      = {arXiv:2007.04418},
+  Doi                      = {10.1093/mnras/stab911},
   Eprint                   = {2007.04418},
   File                     = {:home/tanmoy/Projects/Literature/GRBs/Jacovich_etal_2021.pdf:PDF},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Keywords                 = {radiation mechanisms: non-thermal, relativistic processes, methods: numerical, gamma-ray burst: general, Astrophysics - High Energy Astrophysical Phenomena},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2020.10.29}
+  Timestamp                = {2022.03.22}
 }
 
 @Article{jbf+05,
@@ -7952,6 +8217,29 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2015.04.07}
+}
+
+@Article{jlw+18,
+  Title                    = {{Short GRBs: Opening Angles, Local Neutron Star Merger Rate, and Off-axis Events for GRB/GW Association}},
+  Author                   = {{Jin}, Zhi-Ping and {Li}, Xiang and {Wang}, Hao and {Wang}, Yuan-Zhu and {He}, Hao-Ning and {Yuan}, Qiang and {Zhang}, Fu-Wen and {Zou}, Yuan-Chuan and {Fan}, Yi-Zhong and {Wei}, Da-Ming},
+  Journal                  = {\apj},
+  Year                     = {2018},
+
+  Month                    = apr,
+  Number                   = {2},
+  Pages                    = {128},
+  Volume                   = {857},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2018ApJ...857..128J},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/aab76d},
+  Eid                      = {128},
+  Eprint                   = {1708.07008},
+  Keywords                 = {binaries: close, gamma-ray burst: individual: GRB 150424A, GRB 160821B, gravitational waves, Astrophysics - High Energy Astrophysical Phenomena, General Relativity and Quantum Cosmology},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.16}
 }
 
 @Article{jg15,
@@ -9314,6 +9602,39 @@
   Timestamp                = {2013.06.27}
 }
 
+@Article{ltl+19,
+  Title                    = {{Short GRB 160821B: A Reverse Shock, a Refreshed Shock, and a Well-sampled Kilonova}},
+  Author                   = {{Lamb}, G.~P. and {Tanvir}, N.~R. and {Levan}, A.~J. and
+ {de Ugarte Postigo}, A. and {Kawaguchi}, K. and {Corsi}, A. and
+ {Evans}, P.~A. and {Gompertz}, B. and {Malesani}, D.~B. and
+ {Page}, K.~L. and {Wiersema}, K. and {Rosswog}, S. and {Shibata}, M. and
+ {Tanaka}, M. and {van der Horst}, A.~J. and {Cano}, Z. and
+ {Fynbo}, J.~P.~U. and {Fruchter}, A.~S. and {Greiner}, J. and
+ {Heintz}, K.~E. and {Higgins}, A. and {Hjorth}, J. and {Izzo}, L. and
+ {Jakobsson}, P. and {Kann}, D.~A. and {O'Brien}, P.~T. and
+ {Perley}, D.~A. and {Pian}, E. and {Pugliese}, G. and
+ {Starling}, R.~L.~C. and {Th{\"o}ne}, C.~C. and {Watson}, D. and
+ {Wijers}, R.~A.~M.~J. and {Xu}, D.},
+  Journal                  = {ApJ},
+  Year                     = {2019},
+
+  Month                    = {Sep},
+  Number                   = {1},
+  Pages                    = {48},
+  Volume                   = {883},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019ApJ...883...48L},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/ab38bb},
+  Eid                      = {48},
+  Eprint                   = {1905.02159},
+  Keywords                 = {gamma-ray burst: individual: GRB 160821B, stars: neutron, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.16}
+}
+
 @Article{ld17,
   Title                    = {Relativistic simulations of long-lived reverse shocks in stratified ejecta: the origin of flares in GRB afterglows},
   Author                   = {Lamberts, A. and Daigne, F.},
@@ -9664,6 +9985,25 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2020.06.01}
+}
+
+@Article{lres+22,
+  Title                    = {{The First Short GRB Millimeter Afterglow: The Wide-Angled Jet of the Extremely Energetic SGRB 211106A}},
+  Author                   = {{Laskar}, Tanmoy and {Rouco Escorial}, Alicia and {Schroeder}, Genevieve and {Fong}, Wen-fai and {Berger}, Edo and {Veres}, P{\'e}ter and {Bhandari}, Shivani and {Rastinejad}, Jillian and {Kilpatrick}, Charles D. and {Tohuvavohu}, Aaron and {Margutti}, Raffaella and {Alexander}, Kate D. and {DeLaunay}, James and {Kennea}, Jamie A. and {Nugent}, Anya and {Paterson}, K. and {Williams}, Peter K.~G.},
+  Year                     = {2022},
+
+  Month                    = may,
+  Pages                    = {arXiv:2205.03419},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2022arXiv220503419L},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:2205.03419},
+  Eprint                   = {2205.03419},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.14}
 }
 
 @Article{lsvs09,
@@ -10405,6 +10745,28 @@
   Keywords                 = {Gamma Rays: Bursts, Stars: Mass Loss, Stars: Supernovae: General},
   Owner                    = {tanmoy},
   Timestamp                = {2016.10.07}
+}
+
+@Article{lha+20,
+  Title                    = {{The evolution of gamma-ray burst jet opening angle through cosmic time}},
+  Author                   = {{Lloyd-Ronning}, Nicole and {Hurtado}, Valeria U. and {Aykutalp}, Aycin and {Johnson}, Jarrett and {Ceccobello}, Chiara},
+  Journal                  = {\mnras},
+  Year                     = {2020},
+
+  Month                    = may,
+  Number                   = {3},
+  Pages                    = {4371-4381},
+  Volume                   = {494},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4371L},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/staa1057},
+  Eprint                   = {1912.00057},
+  Keywords                 = {gamma-ray burst: general, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Cosmology and Nongalactic Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.03.08}
 }
 
 @Article{lz04,
@@ -11979,6 +12341,28 @@
   Timestamp                = {2014.11.05}
 }
 
+@Article{mp20,
+  Title                    = {{The E$_{p,I}$-E$_{iso}$ correlation: type I gamma-ray bursts and the new classification method}},
+  Author                   = {{Minaev}, P.~Y. and {Pozanenko}, A.~S.},
+  Journal                  = {\mnras},
+  Year                     = {2020},
+
+  Month                    = feb,
+  Number                   = {2},
+  Pages                    = {1919-1936},
+  Volume                   = {492},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1919M},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stz3611},
+  Eprint                   = {1912.09810},
+  Keywords                 = {methods: data analysis, methods: statistical, catalogues, gamma-ray bursts, neutron star mergers, transients: supernovae, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.15}
+}
+
 @Article{mha+06,
   Title                    = {GRB 060218/SN 2006aj: A Gamma-Ray Burst and Prompt Supernova at z = 0.0335},
   Author                   = {Mirabal, N. and Halpern, J.~P. and An, D. and Thorstensen, J.~R. and Terndrup, D.~M.},
@@ -12524,6 +12908,28 @@
   Url                      = {http://adsabs.harvard.edu/abs/2012PASJ...64..115N}
 }
 
+@Article{nbg+09,
+  Title                    = {{Analysis of galaxy spectral energy distributions from far-UV to far-IR with CIGALE: studying a SINGS test sample}},
+  Author                   = {{Noll}, S. and {Burgarella}, D. and {Giovannoli}, E. and {Buat}, V. and {Marcillac}, D. and {Mu{\~n}oz-Mateos}, J.~C.},
+  Journal                  = {\aap},
+  Year                     = {2009},
+
+  Month                    = dec,
+  Number                   = {3},
+  Pages                    = {1793-1813},
+  Volume                   = {507},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2009A&A...507.1793N},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1051/0004-6361/200912497},
+  Eprint                   = {0909.5439},
+  Keywords                 = {methods: data analysis, galaxies: fundamental parameters, galaxies: stellar content, galaxies: ISM, ultraviolet: galaxies, infrared: galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2022.06.15}
+}
+
 @Article{nb06,
   Title                    = {Short Gamma-Ray Bursts with Extended Emission},
   Author                   = {Norris, J.~P. and Bonnell, J.~T.},
@@ -12599,6 +13005,25 @@
   Keywords                 = {Gamma Rays: Bursts, Radiation Mechanisms: Nonthermal},
   Owner                    = {tanmoy},
   Timestamp                = {2013.06.27}
+}
+
+@Article{nfd+22,
+  Title                    = {{Short GRB Host Galaxies II: A Legacy Sample of Redshifts, Stellar Population Properties, and Implications for their Neutron Star Merger Origins}},
+  Author                   = {{Nugent}, Anya E. and {Fong}, Wen-fai and {Dong}, Yuxin and {Leja}, Joel and {Berger}, Edo and {Zevin}, Michael and {Chornock}, Ryan and {Cobb}, Bethany E. and {Kelley}, Luke Zoltan and {Kilpatrick}, Charles D. and {Levan}, Andrew and {Margutti}, Raffaella and {Paterson}, Kerry and {Perley}, Daniel and {Rouco Escorial}, Alicia and {Smith}, Nathan and {Tanvir}, Nial},
+  Year                     = {2022},
+
+  Month                    = jun,
+  Pages                    = {arXiv:2206.01764},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2022arXiv220601764N},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:2206.01764},
+  Eprint                   = {2206.01764},
+  Keywords                 = {Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.GA},
+  Timestamp                = {2022.06.15}
 }
 
 @Article{owo+06,
@@ -13503,6 +13928,23 @@
   Timestamp                = {2017.07.27}
 }
 
+@InProceedings{pk08,
+  Title                    = {{GRBOX: A New Online Catalog of GRBs}},
+  Author                   = {{Perley}, Daniel and {Kemper}, Yvonne},
+  Booktitle                = {Gamma-ray Bursts 2007},
+  Year                     = {2008},
+  Editor                   = {{Galassi}, M. and {Palmer}, David and {Fenimore}, Ed},
+  Month                    = may,
+  Pages                    = {631-634},
+  Series                   = {American Institute of Physics Conference Series},
+  Volume                   = {1000},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2008AIPC.1000..631P},
+  Doi                      = {10.1063/1.2943549},
+  Keywords                 = {98.70.Rz, 95.80.+p, 95.55.Ka, gamma-ray sources, gamma-ray bursts, Astronomical catalogs atlases sky surveys databases retrieval systems archives etc., X- and gamma-ray telescopes and instrumentation}
+}
+
 @Article{pcb+11,
   Title                    = {The Expanded Very Large Array: A New Telescope for New Science},
   Author                   = {Perley, R.~A. and Chandler, C.~J. and Butler, B.~J. and Wrobel, J.~M.},
@@ -14071,6 +14513,28 @@
   Eprint                   = {0805.1557},
   Owner                    = {tanmoy},
   Timestamp                = {2015.04.07}
+}
+
+@Article{rlb+09,
+  Title                    = {{Jet Breaks and Energetics of Swift Gamma-Ray Burst X-Ray Afterglows}},
+  Author                   = {{Racusin}, J.~L. and {Liang}, E.~W. and {Burrows}, D.~N. and {Falcone}, A. and {Sakamoto}, T. and {Zhang}, B.~B. and {Zhang}, B. and {Evans}, P. and {Osborne}, J.},
+  Journal                  = {\apj},
+  Year                     = {2009},
+
+  Month                    = jun,
+  Number                   = {1},
+  Pages                    = {43-74},
+  Volume                   = {698},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2009ApJ...698...43R},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/698/1/43},
+  Eprint                   = {0812.4780},
+  Keywords                 = {gamma rays: bursts, radiation mechanisms: non-thermal, X-rays: bursts, Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph},
+  Timestamp                = {2022.01.21}
 }
 
 @Article{rdmt01,
@@ -14677,6 +15141,25 @@
   Keywords                 = {galaxies: evolution, submillimetre: galaxies},
   Owner                    = {tanmoy},
   Timestamp                = {2018.01.27}
+}
+
+@Article{rfk+22,
+  Title                    = {{A blast from the infant Universe: the very high-z GRB 210905A}},
+  Author                   = {{Rossi}, A. and {Frederiks}, D.~D. and {Kann}, D.~A. and {De Pasquale}, M. and {Pian}, E. and {D'Avanzo}, P. and {Izzo}, L. and {Lamb}, G. and {Malesani}, D.~B. and {Melandri}, A. and {Nicuesa Guelbenzu}, A. and {Schulze}, S. and {Strausbaugh}, R. and {Amati}, L. and {Campana}, S. and {Cucchiara}, A. and {Ghirlanda}, G. and {Della Valle}, M. and {Klose}, S. and {Salvaterra}, R. and {Starling}, R. and {Stratta}, G. and {Tanvir}, N.~R. and {Tsvetkova}, A.~E. and {Vergani}, S.~D. and {D'Ai}, A. and {Burgarella}, D. and {Covino}, S. and {D'Elia}, V. and {de Ugarte Postigo}, A. and {Fausey}, H. and {Fynbo}, J.~P.~U. and {Frontera}, F. and {Guidorzi}, C. and {Heintz}, K.~E. and {Masetti}, N. and {Maiorano}, E. and {Mundell}, C.~G. and {Oates}, S.~R. and {Page}, M.~J. and {Palazzi}, E. and {Palmerio}, J. and {Pugliese}, G. and {Rau}, A. and {Saccardi}, A. and {Sbarufatti}, B. and {Svinkin}, D.~S. and {Tagliaferri}, G. and {van der Horst}, A.~J. and {Watson}, D. and {Ulanov}, M.~V. and {Wiersema}, K. and {Xu}, D. and {Zhang}, J.},
+  Year                     = {2022},
+
+  Month                    = feb,
+  Pages                    = {arXiv:2202.04544},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2022arXiv220204544R},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:2202.04544},
+  Eprint                   = {2202.04544},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.02.10}
 }
 
 @Article{rlr02,
@@ -16396,6 +16879,28 @@
   Timestamp                = {2013.07.24}
 }
 
+@Article{tlf+13,
+  Title                    = {{A `kilonova' associated with the short-duration {\ensuremath{\gamma}}-ray burst GRB 130603B}},
+  Author                   = {{Tanvir}, N.~R. and {Levan}, A.~J. and {Fruchter}, A.~S. and {Hjorth}, J. and {Hounsell}, R.~A. and {Wiersema}, K. and {Tunnicliffe}, R.~L.},
+  Journal                  = {\nat},
+  Year                     = {2013},
+
+  Month                    = aug,
+  Number                   = {7464},
+  Pages                    = {547-549},
+  Volume                   = {500},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2013Natur.500..547T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1038/nature12505},
+  Eprint                   = {1306.4971},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.04.09}
+}
+
 @Article{tay50,
   Title                    = {{The Formation of a Blast Wave by a Very Intense Explosion. I. Theoretical Discussion}},
   Author                   = {{Taylor}, G.},
@@ -16752,6 +17257,28 @@
   Timestamp                = {2013.07.18}
 }
 
+@Article{twm09,
+  Title                    = {{An Up-Scattered Cocoon Emission Model of Gamma-Ray Burst High-Energy Lags}},
+  Author                   = {{Toma}, Kenji and {Wu}, Xue-Feng and {M{\'e}sz{\'a}ros}, Peter},
+  Journal                  = {\apj},
+  Year                     = {2009},
+
+  Month                    = dec,
+  Number                   = {2},
+  Pages                    = {1404-1416},
+  Volume                   = {707},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2009ApJ...707.1404T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1088/0004-637X/707/2/1404},
+  Eprint                   = {0905.1697},
+  Keywords                 = {gamma rays: bursts, gamma rays: theory, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.08.02}
+}
+
 @Article{tot98,
   Title                    = {Very Strong TeV Emission as Gamma-Ray Burst Afterglows},
   Author                   = {Totani, T.},
@@ -16889,6 +17416,29 @@
   Timestamp                = {2020.02.02}
 }
 
+@Article{tsc+16,
+  Title                    = {{An Achromatic Break in the Afterglow of the Short GRB 140903A: Evidence for a Narrow Jet}},
+  Author                   = {{Troja}, E. and {Sakamoto}, T. and {Cenko}, S.~B. and {Lien}, A. and {Gehrels}, N. and {Castro-Tirado}, A.~J. and {Ricci}, R. and {Capone}, J. and {Toy}, V. and {Kutyrev}, A. and {Kawai}, N. and {Cucchiara}, A. and {Fruchter}, A. and {Gorosabel}, J. and {Jeong}, S. and {Levan}, A. and {Perley}, D. and {Sanchez-Ramirez}, R. and {Tanvir}, N. and {Veilleux}, S.},
+  Journal                  = {\apj},
+  Year                     = {2016},
+
+  Month                    = aug,
+  Number                   = {2},
+  Pages                    = {102},
+  Volume                   = {827},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2016ApJ...827..102T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/0004-637X/827/2/102},
+  Eid                      = {102},
+  Eprint                   = {1605.03573},
+  Keywords                 = {gamma-ray burst: individual: GRB 140903A, X-rays: bursts, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.04.08}
+}
+
 @Article{tsg+12,
   Title                    = {{Broadband Study of GRB 091127: A Sub-energetic Burst at Higher Redshift?}},
   Author                   = {{Troja}, E. and {Sakamoto}, T. and {Guidorzi}, C. and {Norris}, J.~P. and {Panaitescu}, A. and {Kobayashi}, S. and {Omodei}, N. and {Brown}, J.~C. and {Burrows}, D.~N. and {Evans}, P.~A. and {Gehrels}, N. and {Marshall}, F.~E. and {Mawson}, N. and {Melandri}, A. and {Mundell}, C.~G. and {Oates}, S.~R. and {Pal'shin}, V. and {Preece}, R.~D. and {Racusin}, J.~L. and {Steele}, I.~A. and {Tanvir}, N.~R. and {Vasileiou}, V. and {Wilson-Hodge}, C. and {Yamaoka}, K.},
@@ -16965,6 +17515,28 @@
   Keywords                 = {Galaxies: Evolution, Galaxies: Fundamental Parameters, Galaxies: High-Redshift, Galaxies: Structure, Infrared: Galaxies},
   Owner                    = {tanmoy},
   Timestamp                = {2013.02.26}
+}
+
+@Article{tyn+13,
+  Title                    = {{Possible existence of the E$_{p}$-L$_{p}$ and E$_{p}$-E$_{iso}$ correlations for short gamma-ray bursts with a factor 5-100 dimmer than those for long gamma-ray bursts}},
+  Author                   = {{Tsutsui}, Ryo and {Yonetoku}, Daisuke and {Nakamura}, Takashi and {Takahashi}, Keitaro and {Morihara}, Yoshiyuki},
+  Journal                  = {\mnras},
+  Year                     = {2013},
+
+  Month                    = may,
+  Number                   = {2},
+  Pages                    = {1398-1404},
+  Volume                   = {431},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2013MNRAS.431.1398T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stt262},
+  Eprint                   = {1208.0429},
+  Keywords                 = {radiation mechanisms: non-thermal, gamma-ray burst: general, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Cosmology and Nongalactic Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.15}
 }
 
 @Article{tlk+10,
@@ -17817,6 +18389,29 @@
   Publisher                = {Oxford University Press}
 }
 
+@Article{wdb+22,
+  Title                    = {{A Semianalytic Afterglow with Thermal Electrons and Synchrotron Self-Compton Emission}},
+  Author                   = {{Warren}, Donald C. and {Dainotti}, Maria and {Barkov}, Maxim V. and {Ahlgren}, Bj{\"o}rn and {Ito}, Hirotaka and {Nagataki}, Shigehiro},
+  Journal                  = {\apj},
+  Year                     = {2022},
+
+  Month                    = jan,
+  Number                   = {1},
+  Pages                    = {40},
+  Volume                   = {924},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2022ApJ...924...40W},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.3847/1538-4357/ac2f43},
+  Eid                      = {40},
+  Eprint                   = {2109.07687},
+  Keywords                 = {629, 2086, 739, 101, 1390, 293, 2107, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.02.22}
+}
+
 @Article{webn17,
   Title                    = {Nonlinear Particle Acceleration and Thermal Particles in GRB Afterglows},
   Author                   = {Warren, D.~C. and Ellison, D.~C. and Barkov, M.~V. and Nagataki, S.},
@@ -18065,6 +18660,28 @@
   Keywords                 = {GAMMA RAYS: BURSTS, GAMMA RAYS: THEORY, RADIATION MECHANISMS: NONTHERMAL, SHOCK WAVES, Gamma Rays: Bursts, Gamma Rays: Theory, Radiation Mechanisms: Nonthermal, Shock Waves},
   Owner                    = {tanmoy},
   Timestamp                = {2016.04.06}
+}
+
+@Article{wdch+11,
+  Title                    = {{GAMA/H-ATLAS: the ultraviolet spectral slope and obscuration in galaxies}},
+  Author                   = {{Wijesinghe}, D.~B. and {da Cunha}, E. and {Hopkins}, A.~M. and {Dunne}, L. and {Sharp}, R. and {Gunawardhana}, M. and {Brough}, S. and {Sadler}, E.~M. and {Driver}, S. and {Baldry}, I. and {Bamford}, S. and {Liske}, J. and {Loveday}, J. and {Norberg}, P. and {Peacock}, J. and {Popescu}, C.~C. and {Tuffs}, R. and {Andrae}, E. and {Auld}, R. and {Baes}, M. and {Bland-Hawthorn}, J. and {Buttiglione}, S. and {Cava}, A. and {Cameron}, E. and {Conselice}, C.~J. and {Cooray}, A. and {Croom}, S. and {Dariush}, A. and {Dezotti}, G. and {Dye}, S. and {Eales}, S. and {Frenk}, C. and {Fritz}, J. and {Hill}, D. and {Hopwood}, R. and {Ibar}, E. and {Ivison}, R. and {Jarvis}, M. and {Jones}, D.~H. and {van Kampen}, E. and {Kelvin}, L. and {Kuijken}, K. and {Maddox}, S.~J. and {Madore}, B. and {Micha{\l}owski}, M.~J. and {Nichol}, B. and {Parkinson}, H. and {Pascale}, E. and {Pimbblet}, K.~A. and {Pohlen}, M. and {Prescott}, M. and {Rhodighiero}, G. and {Robotham}, A.~S.~G. and {Rigby}, E.~E. and {Seibert}, M. and {Sergeant}, S. and {Smith}, D.~J.~B. and {Temi}, P. and {Sutherland}, W. and {Taylor}, E. and {Thomas}, D. and {van der Werf}, P.},
+  Journal                  = {\mnras},
+  Year                     = {2011},
+
+  Month                    = aug,
+  Number                   = {2},
+  Pages                    = {1002-1012},
+  Volume                   = {415},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2011MNRAS.415.1002W},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1111/j.1365-2966.2011.18615.x},
+  Eprint                   = {1103.3080},
+  Keywords                 = {galaxies: evolution, galaxies: formation, galaxies: general, Astrophysics - Cosmology and Nongalactic Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.CO},
+  Timestamp                = {2022.06.15}
 }
 
 @Misc{wcnr17,
@@ -18780,6 +19397,25 @@
   Keywords                 = {Gamma Rays: Bursts, Stars: Pulsars: General, Radiation Mechanisms: Nonthermal, Shock Waves, Stars: Magnetic Fields},
   Owner                    = {tanmoy},
   Timestamp                = {2013.07.01}
+}
+
+@Article{zmvm20,
+  Title                    = {{External Inverse-Compton Emission from Low-Luminosity Gamma-Ray Bursts: Application to GRB 190829A}},
+  Author                   = {{Zhang}, B. Theodore and {Murase}, Kohta and {Veres}, P{\'e}ter and {M{\'e}sz{\'a}ros}, P{\'e}ter},
+  Year                     = {2020},
+
+  Month                    = dec,
+  Pages                    = {arXiv:2012.07796},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2020arXiv201207796Z},
+  Archiveprefix            = {arXiv},
+  Eid                      = {arXiv:2012.07796},
+  Eprint                   = {2012.07796},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Solar and Stellar Astrophysics},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2021.08.02}
 }
 
 @Article{zlz07,
