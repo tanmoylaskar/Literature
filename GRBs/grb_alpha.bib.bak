@@ -17377,6 +17377,36 @@
   Timestamp                = {2018.01.26}
 }
 
+@Article{tcbg+19,
+  Title                    = {{The afterglow and kilonova of the short GRB 160821B}},
+  Author                   = {{Troja}, E. and {Castro-Tirado}, A.~J. and {Becerra Gonz{\'a}lez}, J. and
+ {Hu}, Y. and {Ryan}, G.~S. and {Cenko}, S.~B. and {Ricci}, R. and
+ {Novara}, G. and {S{\'a}nchez-R{\'a}mirez}, R. and
+ {Acosta-Pulido}, J.~A. and {Ackley}, K.~D. and
+ {Caballero Garc{\'\i}a}, M.~D. and {Eikenberry}, S.~S. and {Guziy}, S. and
+ {Jeong}, S. and {Lien}, A.~Y. and {M{\'a}rquez}, I. and {Pand
+ ey}, S.~B. and {Park}, I.~H. and {Sakamoto}, T. and {Tello}, J.~C. and
+ {Sokolov}, I.~V. and {Sokolov}, V.~V. and {Tiengo}, A. and
+ {Valeev}, A.~F. and {Zhang}, B.~B. and {Veilleux}, S.},
+  Journal                  = {MNRAS},
+  Year                     = {2019},
+
+  Month                    = {Oct},
+  Number                   = {2},
+  Pages                    = {2104-2116},
+  Volume                   = {489},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.2104T},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.1093/mnras/stz2255},
+  Eprint                   = {1905.01290},
+  Keywords                 = {gravitational waves, nuclear reactions, nucleosynthesis, abundances, gamma-ray burst: general, stars: neutron, Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2022.06.16}
+}
+
 @Article{tlm+17,
   Title                    = {{Significant and variable linear polarization during the prompt optical flash of GRB 160625B.}},
   Author                   = {{Troja}, E. and {Lipunov}, V.~M. and {Mundell}, C.~G. and {Butler}, N.~R. and {Watson}, A.~M. and {Kobayashi}, S. and {Cenko}, S.~B. and {Marshall}, F.~E. and {Ricci}, R. and {Fruchter}, A. and {Wieringa}, M.~H. and {Gorbovskoy}, E.~S. and {Kornilov}, V. and {Kutyrev}, A. and {Lee}, W.~H. and {Toy}, V. and {Tyurina}, N.~V. and {Budnev}, N.~M. and {Buckley}, D.~A.~H. and {Gonz{\'a}lez}, J. and {Gress}, O. and {Horesh}, A. and {Panasyuk}, M.~I. and {Prochaska}, J.~X. and {Ramirez-Ruiz}, E. and {Rebolo Lopez}, R. and {Richer}, M.~G. and {Roman-Zuniga}, C. and {Serra-Ricart}, M. and {Yurkov}, V. and {Gehrels}, N.},
