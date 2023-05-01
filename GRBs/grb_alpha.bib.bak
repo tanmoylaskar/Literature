@@ -6541,6 +6541,26 @@
   Timestamp                = {2017.06.20}
 }
 
+@Article{gg23,
+  Title                    = {{GRB 221009A Afterglow from a Shallow Angular Structured Jet}},
+  Author                   = {{Gill}, Ramandeep and {Granot}, Jonathan},
+  Year                     = {2023},
+
+  Month                    = apr,
+  Pages                    = {arXiv:2304.14331},
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2023arXiv230414331G},
+  Archiveprefix            = {arXiv},
+  Doi                      = {10.48550/arXiv.2304.14331},
+  Eid                      = {arXiv:2304.14331},
+  Eprint                   = {2304.14331},
+  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Owner                    = {tanmoy},
+  Primaryclass             = {astro-ph.HE},
+  Timestamp                = {2023.04.29}
+}
+
 @Article{go97,
   Title                    = {Reionization of the Universe and the Early Production of Metals},
   Author                   = {Gnedin, N.~Y. and Ostriker, J.~P.},
@@ -10481,23 +10501,25 @@
 
 @Article{lam+23,
   Title                    = {{The Radio to GeV Afterglow of GRB 221009A}},
-  Author                   = {{Laskar}, Tanmoy and {Alexander}, Kate D. and {Margutti}, Raffaella and {Eftekhari}, Tarraneh and {Chornock}, Ryan and {Berger}, Edo and {Cendes}, Yvette and {Duerr}, Anne and {Perley}, Daniel A. and {Edvige Ravasio}, Maria and {Yamazaki}, Ryo and {Ayache}, Eliot H. and {Barclay}, Thomas and {Barniol Duran}, Rodolfo and {Bhandari}, Shivani and {Brethauer}, Daniel and {Christy}, Collin T. and {Coppejans}, Deanne L. and {Duffell}, Paul and {Fong}, Wen-fai and {Gomboc}, Andreja and {Guidorzi}, Cristiano and {Kennea}, Jamie A. and {Kobayashi}, Shiho and {Levan}, Andrew and {Lobanov}, Andrei P. and {Metzger}, Brian D. and {Ros}, Eduardo and {Schroeder}, Genevieve and {Williams}, P.~K.~G.},
-  Journal                  = {arXiv e-prints},
+  Author                   = {{Laskar}, Tanmoy and {Alexander}, Kate D. and {Margutti}, Raffaella and {Eftekhari}, Tarraneh and {Chornock}, Ryan and {Berger}, Edo and {Cendes}, Yvette and {Duerr}, Anne and {Perley}, Daniel A. and {Ravasio}, Maria Edvige and {Yamazaki}, Ryo and {Ayache}, Eliot H. and {Barclay}, Thomas and {Barniol Duran}, Rodolfo and {Bhandari}, Shivani and {Brethauer}, Daniel and {Christy}, Collin T. and {Coppejans}, Deanne L. and {Duffell}, Paul and {Fong}, Wen-fai and {Gomboc}, Andreja and {Guidorzi}, Cristiano and {Kennea}, Jamie A. and {Kobayashi}, Shiho and {Levan}, Andrew and {Lobanov}, Andrei P. and {Metzger}, Brian D. and {Ros}, Eduardo and {Schroeder}, Genevieve and {Williams}, P.~K.~G.},
+  Journal                  = {\apjl},
   Year                     = {2023},
 
-  Month                    = feb,
-  Pages                    = {arXiv:2302.04388},
+  Month                    = mar,
+  Number                   = {1},
+  Pages                    = {L23},
+  Volume                   = {946},
 
   Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2023arXiv230204388L},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2023ApJ...946L..23L},
   Archiveprefix            = {arXiv},
-  Doi                      = {10.48550/arXiv.2302.04388},
-  Eid                      = {arXiv:2302.04388},
+  Doi                      = {10.3847/2041-8213/acbfad},
+  Eid                      = {L23},
   Eprint                   = {2302.04388},
-  Keywords                 = {Astrophysics - High Energy Astrophysical Phenomena},
+  Keywords                 = {High energy astrophysics, Gamma-ray bursts, 739, 629, Astrophysics - High Energy Astrophysical Phenomena},
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
-  Timestamp                = {2023.03.07}
+  Timestamp                = {2023.04.29}
 }
 
 @Article{lbc11,
@@ -19031,23 +19053,9 @@
   Primaryclass             = {astro-ph}
 }
 
-@PhdThesis{vdhor07,
-  Title                    = {{Broadband view of blast wave physics : a study of gamma-ray burst afterglows}},
-  Author                   = {{van der Horst}, A.~J.},
-  School                   = {University of Amsterdam},
-  Year                     = {2007},
-  Month                    = sep,
-
-  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
-  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2007PhDT........72V},
-  Keywords                 = {Gammabursters},
-  Owner                    = {tanmoy},
-  Timestamp                = {2020.08.26}
-}
-
 @Article{vdhpdb+14,
   Title                    = {{A comprehensive radio view of the extremely bright gamma-ray burst 130427A}},
-  Author                   = {{van der Horst}, A.~J. and {Paragi}, Z. and {de Bruyn}, A.~G. and {Granot}, J. and {Kouveliotou}, C. and {Wiersema}, K. and {Starling}, R.~L.~C. and {Curran}, P.~A. and {Wijers}, R.~A.~M.~J. and {Rowlinson}, A. and {Anderson}, G.~A. and {Fender}, R.~P. and {Yang}, J. and {Strom}, R.~G.},
+  Author                   = {{van der Horst}, A. and {Paragi}, Z. and {de Bruyn}, A.~G. and {Granot}, J. and {Kouveliotou}, C. and {Wiersema}, K. and {Starling}, R.~L.~C. and {Curran}, P.~A. and {Wijers}, R.~A.~M.~J. and {Rowlinson}, A. and {Anderson}, G.~A. and {Fender}, R.~P. and {Yang}, J. and {Strom}, R.~G.},
   Journal                  = {\mnras},
   Year                     = {2014},
 
@@ -19064,6 +19072,20 @@
   Owner                    = {tanmoy},
   Primaryclass             = {astro-ph.HE},
   Timestamp                = {2018.02.09}
+}
+
+@PhdThesis{vdhor07,
+  Title                    = {{Broadband view of blast wave physics : a study of gamma-ray burst afterglows}},
+  Author                   = {{van der Horst}, A.~J.},
+  School                   = {University of Amsterdam},
+  Year                     = {2007},
+  Month                    = sep,
+
+  Adsnote                  = {Provided by the SAO/NASA Astrophysics Data System},
+  Adsurl                   = {https://ui.adsabs.harvard.edu/abs/2007PhDT........72V},
+  Keywords                 = {Gammabursters},
+  Owner                    = {tanmoy},
+  Timestamp                = {2020.08.26}
 }
 
 @Article{vevdhm12,
